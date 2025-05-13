@@ -1,0 +1,94 @@
+Row,CNSSurfaceAssociatedGlialCell,adultFatBody,adultGlialCell,adultHindgut,adultOenocyte,adultPeripheralNervousSystem,adultReticularNeuropilAssociatedGlialCell,adultTrachealCell,adultVentralNervousSystem,cellBodyGlialCell,enteroendocrineCell,eoSupportCell,epithelialCell,escortCell,femaleReproductiveSystem,follicleCell,follicleCellSt_9_,germlineCell,gustatoryReceptorNeuron,hemocyte,indirectFlightMuscle,legMuscleMotorNeuron,legTasteBristleChemosensoryNeuron,maleAccessoryGland,multidendriticNeuron,muscleCell,perineurialGlialSheath,polarFollicleCell,prefollicleCell_stalkFollicleCell,scolopidialNeuron,spermatocyte,subperineurialGlialCell
+Reactive oxygen species detoxification (H2O2 to H2O),1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Inosine monophosphate synthesis (IMP),0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0
+Cytidine triphosphate synthesis (CTP),0,1,0,1,1,1,0,1,0,1,1,1,0,0,1,0,1,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0
+Guanosine triphosphate synthesis (GTP),1,1,0,1,1,1,1,1,0,1,1,1,0,0,1,0,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0
+Uridine triphosphate synthesis (UTP),0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0
+Deoxyadenosine triphosphate synthesis (dATP),0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0
+AMP salvage from adenine,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Degradation of uracil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gluconeogenesis from Glycerol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Ethanol to acetaldehyde,0,1,0,1,1,0,0,0,0,0,0,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Glucose to lactate conversion,1,1,0,1,0,0,1,1,0,1,1,1,0,1,1,1,0,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1
+Synthesis of ribose-5-phosphate,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0
+Synthesis of lactose,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fructose to glucose conversion (via fructose-6-phosphate),0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UDP-galactose synthesis,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+Mannose degradation (to fructose-6-phosphate),0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+UDP-N-acetyl D-galactosamine synthesis,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Glucuronate synthesis (via inositol),0,1,1,0,1,0,1,1,0,0,1,1,1,1,1,0,0,1,0,1,0,1,0,1,0,0,1,0,0,0,0,0
+Glucuronate synthesis (via udp-glucose),0,1,1,0,1,0,1,1,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+Synthesis of inositol,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Link between glyoxylate metabolism and pentose phosphate pathway (Xylulose to glycolate),0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Synthesis of methylglyoxal,0,0,1,0,1,1,0,0,1,1,0,1,0,0,1,0,1,1,1,1,1,1,1,0,0,1,0,0,1,1,1,1
+Alanine degradation,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+Synthesis of alanine from glutamine,0,0,0,0,1,0,0,1,1,0,0,0,1,1,1,0,1,1,0,0,0,1,1,1,0,1,0,0,0,1,1,0
+Synthesis of nitric oxide from arginine,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+Synthesis of aspartate from glutamine,0,0,0,0,1,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,1,0
+Asparagine degradation,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Aspartate degradation,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+Conversion of aspartate to arginine,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conversion of aspartate to beta-alanine,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conversion of asparate to asparagine,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Beta-alanine to 3-oxopropanoate,1,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,1,0,0,1,0,1
+Glutamate degradation,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+Conversion of glutamate to glutamine,0,0,0,0,1,1,0,1,1,0,0,0,1,1,1,0,1,1,0,0,0,1,1,1,0,1,0,1,1,1,1,0
+Conversion of glutamate to proline,1,1,0,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,1,1,1,1,1,1,0,0,0,1,0,1
+Conversion of GABA into succinate,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Glutamine degradation,1,0,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+Glutathionate synthesis,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Glycine degradation,1,0,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+Conversion of glycine to pyruvate,1,0,1,0,1,1,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1
+Conversion of histidine to histamine,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1
+Homocysteine synthesis (need methionine),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Homocysteine degradation,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0
+Isoleucine degradation,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conversion of lysine to L-Saccharopine,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Ornithine degradation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Serine degradation,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+Phenylalanine to phenylacetaldehyde,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Phenylalanine to tyrosine,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Proline degradation,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Threonine degradation,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Synthesis of serotonin from tryptophan,0,0,1,0,0,0,0,1,0,1,0,1,1,0,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1
+Hydroxymethylglutaryl-CoA synthesis,0,0,0,0,0,1,1,1,0,0,1,0,1,1,0,0,0,0,1,0,1,1,1,0,1,1,0,1,1,1,0,0
+Phosphatidyl-choline synthesis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Phosphatidyl-ethanolamine synthesis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Phosphatidyl-serine synthesis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Phosphatidyl-inositol synthesis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Cardiolipin synthesis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Ceramide synthesis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Palmitate synthesis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Palmitate degradation,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,0,0,0,1,1
+Palmitolate synthesis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Palmitolate degradation,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1
+cis-vaccenic acid synthesis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+cis-vaccenic acid degradation,1,1,1,1,1,0,1,1,0,1,1,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1,1,0,0,0,0,1
+Elaidate synthesis,1,0,0,0,0,0,1,1,0,1,1,1,0,0,1,0,1,1,1,0,1,0,0,1,0,1,0,0,1,0,0,1
+Elaidate degradation,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,0,1,0,0,1
+Linolenate degradation,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,0,1,0,0,1
+Linoleate degradation,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,0,1,0,1,1,0,1,0,0,1
+gamma-Linolenate synthesis,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+gamma-Linolenate degradation,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,0,1,0,0,0,0,0,1
+Arachidonate synthesis,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arachidonate degradation,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,0,0,1,0,1
+Synthesis of malonyl-coa,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Synthesis of coenzyme A,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Synthesis of ubiquinone from tyrosine,1,0,1,1,1,0,0,1,0,1,0,1,1,0,0,1,1,1,0,1,0,0,0,1,1,0,1,0,1,1,1,1
+Tetrahydrofolate synthesis,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Pyridoxal-phosphate synthesis,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1
+Biosynthesis of Tn_antigen (Glycoprotein N-acetyl-D-galactosamine),0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Trehalose synthesis from pyruvate,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1
+Trehalose synthesis from Lactate,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1
+Trehalose synthesis from Glycerol,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1
+Trehalose synthesis from Alanine,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1
+Trehalose synthesis from Glutamine,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1
+Trehalose synthesis from Lactate and optionally fatty acid,0,1,1,1,0,0,1,1,1,1,0,1,1,0,1,1,0,1,0,1,1,1,1,1,0,1,1,0,0,0,0,1
+Trehalose synthesis from Glycerol and optionally fatty acid,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1
+Trehalose synthesis from Alanine and fatty acid,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1
+Anaerobic rephosphorylation of ATP,1,1,0,1,0,0,1,1,0,1,1,1,0,1,1,1,0,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1
+Anaerobic rephosphorylation of GTP,1,1,0,1,0,0,1,1,0,1,1,1,0,1,1,1,0,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1
+Anaerobic rephosphorylation of CTP,1,1,0,1,0,0,1,1,0,1,1,1,0,1,1,1,0,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1
+Anaerobic rephosphorylation of UTP,1,1,0,1,0,0,1,1,0,1,1,1,0,1,1,1,0,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1
+Storage of glucose in Glycogen,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,0,1,0,1,1,0,1,0,0,1
+Release of glucose from Glycogen,0,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1,1,0,1,0,1,1,0,0,0,0,1

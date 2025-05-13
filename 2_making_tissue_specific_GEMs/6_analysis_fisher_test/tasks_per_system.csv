@@ -1,0 +1,8 @@
+SYSTEM,GroupCount,CNSSurfaceAssociatedGlialCell,adultFatBody,adultGlialCell,adultHindgut,adultOenocyte,adultPeripheralNervousSystem,adultReticularNeuropilAssociatedGlialCell,adultTrachealCell,adultVentralNervousSystem,cellBodyGlialCell,enteroendocrineCell,eoSupportCell,epithelialCell,escortCell,femaleReproductiveSystem,follicleCell,follicleCellSt_9_,germlineCell,gustatoryReceptorNeuron,hemocyte,indirectFlightMuscle,legMuscleMotorNeuron,legTasteBristleChemosensoryNeuron,maleAccessoryGland,multidendriticNeuron,muscleCell,perineurialGlialSheath,polarFollicleCell,prefollicleCell_stalkFollicleCell,scolopidialNeuron,spermatocyte,subperineurialGlialCell
+AMINO ACIDS METABOLISM,30,10,10,11,6,14,12,6,13,15,12,11,10,14,11,14,11,12,15,2,9,10,13,14,14,11,14,9,7,9,12,15,12
+CARBOHYDRATES METABOLISM,24,2,19,13,15,16,8,13,13,11,13,14,15,14,13,15,12,10,19,2,14,12,13,11,15,10,12,12,2,2,8,13,13
+ENERGY METABOLISM,5,5,5,1,5,1,1,5,4,1,5,5,5,1,5,5,5,1,5,1,1,5,5,1,5,5,5,1,1,1,1,5,5
+GLYCAN METABOLISM,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+LIPIDS METABOLISM,22,15,9,9,9,10,2,11,11,8,10,11,10,10,7,10,9,8,17,14,5,11,10,2,10,7,11,8,1,6,3,3,16
+NUCLEOTIDE METABOLISM,7,1,5,0,6,5,2,1,2,0,2,5,2,0,1,2,0,6,6,5,0,0,0,5,0,5,0,0,4,0,0,0,0
+VITAMIN & COFACTOR METABOLISM,4,3,3,3,3,3,2,2,3,2,3,2,2,3,2,2,3,3,4,2,3,2,2,2,4,3,2,3,2,3,3,4,4

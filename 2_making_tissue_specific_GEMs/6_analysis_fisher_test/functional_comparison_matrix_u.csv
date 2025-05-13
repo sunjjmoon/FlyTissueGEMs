@@ -1,0 +1,94 @@
+SYSTEM,SUBSYSTEM,Description,CNSSurfaceAssociatedGlialCell,adultFatBody,adultGlialCell,adultHindgut,adultOenocyte,adultPeripheralNervousSystem,adultReticularNeuropilAssociatedGlialCell,adultTrachealCell,adultVentralNervousSystem,cellBodyGlialCell,enteroendocrineCell,eoSupportCell,epithelialCell,escortCell,femaleReproductiveSystem,follicleCell,follicleCellSt_9_,germlineCell,gustatoryReceptorNeuron,hemocyte,indirectFlightMuscle,legMuscleMotorNeuron,legTasteBristleChemosensoryNeuron,maleAccessoryGland,multidendriticNeuron,muscleCell,perineurialGlialSheath,polarFollicleCell,prefollicleCell_stalkFollicleCell,scolopidialNeuron,spermatocyte,subperineurialGlialCell
+ENERGY METABOLISM,OXIDATIVE PHOSPHORYLATION & ROS DETOXIFICATION,Reactive oxygen species detoxification (H2O2 to H2O),1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NUCLEOTIDE METABOLISM,IMP SYNTHESIS / PURINE METABOLISM,Inosine monophosphate synthesis (IMP),0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0
+NUCLEOTIDE METABOLISM,UMP SYNTHESIS,Cytidine triphosphate synthesis (CTP),0,1,0,1,1,1,0,1,0,1,1,1,0,0,1,0,1,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0
+NUCLEOTIDE METABOLISM,IMP SYNTHESIS / PURINE METABOLISM,Guanosine triphosphate synthesis (GTP),1,1,0,1,1,1,1,1,0,1,1,1,0,0,1,0,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0
+NUCLEOTIDE METABOLISM,UMP SYNTHESIS,Uridine triphosphate synthesis (UTP),0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0
+NUCLEOTIDE METABOLISM,DEOXYNUCLEOTIDES SYNTHESIS,Deoxyadenosine triphosphate synthesis (dATP),0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0
+NUCLEOTIDE METABOLISM,SALVAGE,AMP salvage from adenine,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NUCLEOTIDE METABOLISM,PYRIMIDINE CATABOLISM,Degradation of uracil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CARBOHYDRATES METABOLISM,GLUCONEOGENESIS,Gluconeogenesis from Glycerol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+CARBOHYDRATES METABOLISM,GLYCOLYSIS/GLUCONEOGENESIS,Ethanol to acetaldehyde,0,1,0,1,1,0,0,0,0,0,0,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CARBOHYDRATES METABOLISM,PYRUVATE METABOLISM,Glucose to lactate conversion,1,1,0,1,0,0,1,1,0,1,1,1,0,1,1,1,0,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1
+CARBOHYDRATES METABOLISM,PENTOSE PHOSPHATE PATHWAY,Synthesis of ribose-5-phosphate,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0
+CARBOHYDRATES METABOLISM,GALACTOSE METABOLISM,Synthesis of lactose,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CARBOHYDRATES METABOLISM,FRUCTOSE METABOLISM,Fructose to glucose conversion (via fructose-6-phosphate),0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CARBOHYDRATES METABOLISM,NUCLEOTIDE SUGAR,UDP-galactose synthesis,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+CARBOHYDRATES METABOLISM,MANNOSE METABOLISM,Mannose degradation (to fructose-6-phosphate),0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+CARBOHYDRATES METABOLISM,AMINO SUGARS METABOLISM,UDP-N-acetyl D-galactosamine synthesis,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+CARBOHYDRATES METABOLISM,PENTOSE AND GLUCURONATE INTERCONVERSION,Glucuronate synthesis (via inositol),0,1,1,0,1,0,1,1,0,0,1,1,1,1,1,0,0,1,0,1,0,1,0,1,0,0,1,0,0,0,0,0
+CARBOHYDRATES METABOLISM,PENTOSE AND GLUCURONATE INTERCONVERSION,Glucuronate synthesis (via udp-glucose),0,1,1,0,1,0,1,1,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+CARBOHYDRATES METABOLISM,PHOSPHATE INOSITOL METABOLISM,Synthesis of inositol,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+CARBOHYDRATES METABOLISM,GLYOXYLATE METABOLISM,Link between glyoxylate metabolism and pentose phosphate pathway (Xylulose to glycolate),0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CARBOHYDRATES METABOLISM,METHYLGLYOXAL METABOLISM,Synthesis of methylglyoxal,0,0,1,0,1,1,0,0,1,1,0,1,0,0,1,0,1,1,1,1,1,1,1,0,0,1,0,0,1,1,1,1
+AMINO ACIDS METABOLISM,ALANINE METABOLISM,Alanine degradation,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMINO ACIDS METABOLISM,ALANINE METABOLISM,Synthesis of alanine from glutamine,0,0,0,0,1,0,0,1,1,0,0,0,1,1,1,0,1,1,0,0,0,1,1,1,0,1,0,0,0,1,1,0
+AMINO ACIDS METABOLISM,ARGININE METABOLISM,Synthesis of nitric oxide from arginine,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+AMINO ACIDS METABOLISM,ASPARTATE METABOLISM,Synthesis of aspartate from glutamine,0,0,0,0,1,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,1,0
+AMINO ACIDS METABOLISM,ASPARAGINE METABOLISM,Asparagine degradation,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+AMINO ACIDS METABOLISM,ASPARTATE METABOLISM,Aspartate degradation,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMINO ACIDS METABOLISM,ASPARTATE METABOLISM,Conversion of aspartate to arginine,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AMINO ACIDS METABOLISM,ASPARTATE METABOLISM,Conversion of aspartate to beta-alanine,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AMINO ACIDS METABOLISM,ASPARTATE METABOLISM,Conversion of asparate to asparagine,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+AMINO ACIDS METABOLISM,BETA-ALANINE METABOLISM,Beta-alanine to 3-oxopropanoate,1,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,1,0,0,1,0,1
+AMINO ACIDS METABOLISM,GLUTAMATE METABOLISM,Glutamate degradation,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMINO ACIDS METABOLISM,GLUTAMATE METABOLISM,Conversion of glutamate to glutamine,0,0,0,0,1,1,0,1,1,0,0,0,1,1,1,0,1,1,0,0,0,1,1,1,0,1,0,1,1,1,1,0
+AMINO ACIDS METABOLISM,GLUTAMATE METABOLISM,Conversion of glutamate to proline,1,1,0,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,1,1,1,1,1,1,0,0,0,1,0,1
+AMINO ACIDS METABOLISM,GLUTAMATE METABOLISM,Conversion of GABA into succinate,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AMINO ACIDS METABOLISM,GLUTAMINE METABOLISM,Glutamine degradation,1,0,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMINO ACIDS METABOLISM,GLUTATHIONE METABOLISM,Glutathionate synthesis,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AMINO ACIDS METABOLISM,GLYCINE METABOLISM,Glycine degradation,1,0,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMINO ACIDS METABOLISM,GLYCINE METABOLISM,Conversion of glycine to pyruvate,1,0,1,0,1,1,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1
+AMINO ACIDS METABOLISM,HISTIDINE METABOLISM,Conversion of histidine to histamine,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1
+AMINO ACIDS METABOLISM,HOMOCYSTEINE METABOLISM,Homocysteine synthesis (need methionine),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AMINO ACIDS METABOLISM,HOMOCYSTEINE METABOLISM,Homocysteine degradation,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0
+AMINO ACIDS METABOLISM,ISOLEUCINE METABOLISM,Isoleucine degradation,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AMINO ACIDS METABOLISM,LYSINE METABOLISM,Conversion of lysine to L-Saccharopine,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+AMINO ACIDS METABOLISM,ORNITHINE METABOLISM,Ornithine degradation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AMINO ACIDS METABOLISM,SERINE METABOLISM,Serine degradation,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMINO ACIDS METABOLISM,PHENYLALANINE METABOLISM,Phenylalanine to phenylacetaldehyde,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+AMINO ACIDS METABOLISM,PHENYLALANINE METABOLISM,Phenylalanine to tyrosine,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AMINO ACIDS METABOLISM,PROLINE METABOLISM,Proline degradation,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AMINO ACIDS METABOLISM,THREONINE METABOLISM,Threonine degradation,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+AMINO ACIDS METABOLISM,TRYPTOPHAN METABOLISM,Synthesis of serotonin from tryptophan,0,0,1,0,0,0,0,1,0,1,0,1,1,0,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1
+LIPIDS METABOLISM,CHOLESTEROL METABOLISM,Hydroxymethylglutaryl-CoA synthesis,0,0,0,0,0,1,1,1,0,0,1,0,1,1,0,0,0,0,1,0,1,1,1,0,1,1,0,1,1,1,0,0
+LIPIDS METABOLISM,GLYCEROPHOSPHOLIPID METABOLISM,Phosphatidyl-choline synthesis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+LIPIDS METABOLISM,GLYCEROPHOSPHOLIPID METABOLISM,Phosphatidyl-ethanolamine synthesis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+LIPIDS METABOLISM,GLYCEROPHOSPHOLIPID METABOLISM,Phosphatidyl-serine synthesis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+LIPIDS METABOLISM,GLYCEROPHOSPHOLIPID METABOLISM,Phosphatidyl-inositol synthesis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+LIPIDS METABOLISM,GLYCEROPHOSPHOLIPID METABOLISM,Cardiolipin synthesis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+LIPIDS METABOLISM,SPHINGOLIPID METABOLISM,Ceramide synthesis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+LIPIDS METABOLISM,FATTY ACID METABOLISM,Palmitate synthesis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+LIPIDS METABOLISM,FATTY ACID METABOLISM,Palmitate degradation,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,0,0,0,1,1
+LIPIDS METABOLISM,FATTY ACID METABOLISM,Palmitolate synthesis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+LIPIDS METABOLISM,FATTY ACID METABOLISM,Palmitolate degradation,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1
+LIPIDS METABOLISM,FATTY ACID METABOLISM,cis-vaccenic acid synthesis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+LIPIDS METABOLISM,FATTY ACID METABOLISM,cis-vaccenic acid degradation,1,1,1,1,1,0,1,1,0,1,1,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1,1,0,0,0,0,1
+LIPIDS METABOLISM,FATTY ACID METABOLISM,Elaidate synthesis,1,0,0,0,0,0,1,1,0,1,1,1,0,0,1,0,1,1,1,0,1,0,0,1,0,1,0,0,1,0,0,1
+LIPIDS METABOLISM,FATTY ACID METABOLISM,Elaidate degradation,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,0,1,0,0,1
+LIPIDS METABOLISM,FATTY ACID METABOLISM,Linolenate degradation,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,0,1,0,0,1
+LIPIDS METABOLISM,FATTY ACID METABOLISM,Linoleate degradation,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,0,1,0,1,1,0,1,0,0,1
+LIPIDS METABOLISM,FATTY ACID METABOLISM,gamma-Linolenate synthesis,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+LIPIDS METABOLISM,FATTY ACID METABOLISM,gamma-Linolenate degradation,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,0,1,0,0,0,0,0,1
+LIPIDS METABOLISM,FATTY ACID METABOLISM,Arachidonate synthesis,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+LIPIDS METABOLISM,FATTY ACID METABOLISM,Arachidonate degradation,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,0,0,1,0,1
+LIPIDS METABOLISM,FATTY ACID METABOLISM,Synthesis of malonyl-coa,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VITAMIN & COFACTOR METABOLISM,COENZYME A BIOSYNTHESIS,Synthesis of coenzyme A,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+VITAMIN & COFACTOR METABOLISM,UBIQUINONE 10 BIOSYNTHESIS,Synthesis of ubiquinone from tyrosine,1,0,1,1,1,0,0,1,0,1,0,1,1,0,0,1,1,1,0,1,0,0,0,1,1,0,1,0,1,1,1,1
+VITAMIN & COFACTOR METABOLISM,FOLATE METABOLISM,Tetrahydrofolate synthesis,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+VITAMIN & COFACTOR METABOLISM,VITAMIN B6 METABOLISM,Pyridoxal-phosphate synthesis,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1
+GLYCAN METABOLISM,O-GLYCAN METABOLISM,Biosynthesis of Tn_antigen (Glycoprotein N-acetyl-D-galactosamine),0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+CARBOHYDRATES METABOLISM,Trehalose synthesis,Trehalose synthesis from pyruvate,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1
+CARBOHYDRATES METABOLISM,Trehalose synthesis,Trehalose synthesis from Lactate,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1
+CARBOHYDRATES METABOLISM,Trehalose synthesis,Trehalose synthesis from Glycerol,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1
+CARBOHYDRATES METABOLISM,Trehalose synthesis,Trehalose synthesis from Alanine,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1
+CARBOHYDRATES METABOLISM,Trehalose synthesis,Trehalose synthesis from Glutamine,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1
+CARBOHYDRATES METABOLISM,Trehalose synthesis,Trehalose synthesis from Lactate and optionally fatty acid,0,1,1,1,0,0,1,1,1,1,0,1,1,0,1,1,0,1,0,1,1,1,1,1,0,1,1,0,0,0,0,1
+CARBOHYDRATES METABOLISM,Trehalose synthesis,Trehalose synthesis from Glycerol and optionally fatty acid,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1
+CARBOHYDRATES METABOLISM,Trehalose synthesis,Trehalose synthesis from Alanine and fatty acid,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1
+ENERGY METABOLISM,Glycolysis,Anaerobic rephosphorylation of ATP,1,1,0,1,0,0,1,1,0,1,1,1,0,1,1,1,0,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1
+ENERGY METABOLISM,Glycolysis,Anaerobic rephosphorylation of GTP,1,1,0,1,0,0,1,1,0,1,1,1,0,1,1,1,0,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1
+ENERGY METABOLISM,Glycolysis,Anaerobic rephosphorylation of CTP,1,1,0,1,0,0,1,1,0,1,1,1,0,1,1,1,0,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1
+ENERGY METABOLISM,Glycolysis,Anaerobic rephosphorylation of UTP,1,1,0,1,0,0,1,1,0,1,1,1,0,1,1,1,0,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1
+CARBOHYDRATES METABOLISM,GLYCOGEN METABOLISM,Storage of glucose in Glycogen,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,0,1,0,1,1,0,1,0,0,1
+CARBOHYDRATES METABOLISM,GLYCOGEN METABOLISM,Release of glucose from Glycogen,0,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1,1,0,1,0,1,1,0,0,0,0,1

@@ -1,0 +1,46 @@
+Reaction ID	Equation	Genes	Compartment
+MAR00710	NADP+ [c] + isocitrate [c] ⇒ AKG [c] + CO2 [c] + NADPH [c]	Idh	Cytosol
+MAR01453	3 H+ [c] + NADH [c] + 2 hydroxypyruvate [c] ⇒ 2 (S)-Glycerate [c] + NAD+ [c]	Ldh	Cytosol
+MAR03787	acetoacetate [m] + succinyl-CoA [m] ⇒ acetoacetyl-CoA [m] + succinate [m]	SCOT	Mitochondria
+MAR03957	NAD+ [m] + isocitrate [m] ⇒ AKG [m] + CO2 [m] + NADH [m]	Idh3a; Idh3b; Idh3g	Mitochondria
+MAR03958	NADP+ [m] + isocitrate [m] ⇒ AKG [m] + CO2 [m] + NADPH [m]	Idh	Mitochondria
+MAR04111	H+ [c] + oxalosuccinate [c] ⇒ AKG [c] + CO2 [c]	Idh	Cytosol
+MAR04112	H+ [m] + oxalosuccinate [m] ⇒ AKG [m] + CO2 [m]	Idh	Mitochondria
+MAR04113	H+ [x] + oxalosuccinate [x] ⇒ AKG [x] + CO2 [x]	Idh	Peroxisome
+MAR04139	H+ [c] + NADH [c] + OAA [c] ⇔ NAD+ [c] + malate [c]	Mdh1	Cytosol
+MAR04141	H+ [m] + NADH [m] + OAA [m] ⇔ NAD+ [m] + malate [m]	Mdh2	Mitochondria
+MAR04145	CoA [m] + H+ [m] + citrate [m] ⇔ H2O [m] + OAA [m] + acetyl-CoA [m]	kdn	Mitochondria
+MAR04147	CoA [m] + GTP [m] + succinate [m] ⇔ GDP [m] + Pi [m] + succinyl-CoA [m]	ScsβG; Scsα1; ScsβA	Mitochondria
+MAR04149	ATP [c] + CoA [c] + citrate [c] ⇒ ADP [c] + OAA [c] + Pi [c] + acetyl-CoA [c]	ATPCL	Cytosol
+MAR04152	ADP [m] + Pi [m] + succinyl-CoA [m] ⇔ ATP [m] + CoA [m] + succinate [m]	Scsα1; ScsβA; ScsβG	Mitochondria
+MAR04209	AKG [m] + H+ [m] + thiamin-PP [m] ⇒ 3-carboxy-1-hydroxypropyl-ThPP [m] + CO2 [m]	Ogdh; CG1544	Mitochondria
+MAR04408	H2O [c] + fumarate [c] ⇔ malate [c]	Fum1	Cytosol
+MAR04410	H2O [m] + fumarate [m] ⇔ malate [m]	Fum1	Mitochondria
+MAR04454	citrate [c] ⇔ isocitrate [c]	Irp-1A	Cytosol
+MAR04456	citrate [m] ⇔ isocitrate [m]	Irp-1A; mAcon1	Mitochondria
+MAR04458	H2O [m] + cis-aconitate [m] ⇔ citrate [m]	mAcon1; Irp-1A	Mitochondria
+MAR04465	H+ [c] + NADPH [c] + hydroxypyruvate [c] ⇒ NADP+ [c] + glycerate [c]	CG1236	Cytosol
+MAR04585	H+ [c] + NADPH [c] + oxalosuccinate [c] ⇔ NADP+ [c] + isocitrate [c]	Idh	Cytosol
+MAR04586	H+ [m] + NADPH [m] + oxalosuccinate [m] ⇔ NADP+ [m] + isocitrate [m]	Idh	Mitochondria
+MAR04587	H+ [x] + NADPH [x] + oxalosuccinate [x] ⇔ NADP+ [x] + isocitrate [x]	Idh	Peroxisome
+MAR04588	H+ [m] + NADH [m] + oxalosuccinate [m] ⇔ NAD+ [m] + isocitrate [m]	Idh	Mitochondria
+MAR04589	H2O [m] + cis-aconitate [m] ⇔ isocitrate [m]	mAcon1; Irp-1A	Mitochondria
+MAR04652	fumarate [m] + ubiquinol [m] ⇔ succinate [m] + ubiquinone [m]	SdhB; SdhA; SdhD; SdhC	Mitochondria
+MAR05297	AKG [m] + CoA [m] + NAD+ [m] ⇒ CO2 [m] + NADH [m] + succinyl-CoA [m]	CG7430; CG5214; Ogdh	Mitochondria
+MAR06411	AKG [m] + H+ [m] + lipoamide [m] ⇒ CO2 [m] + S-succinyldihydrolipoamide [m]	Ogdh; CG1544	Mitochondria
+MAR06413	3-carboxy-1-hydroxypropyl-ThPP [m] + lipoamide [m] ⇒ S-succinyldihydrolipoamide [m] + thiamin-PP [m]	CG1544; Ogdh	Mitochondria
+MAR06414	CoA [m] + S-succinyldihydrolipoamide [m] ⇔ dihydrolipoamide [m] + succinyl-CoA [m]	CG5214	Mitochondria
+MAR07704	H2O [x] + O2 [x] + glyoxalate [x] ⇒ H+ [x] + H2O2 [x] + oxalate [x]	Hao	Peroxisome
+MAR07706	O2 [x] + glycolate [x] ⇒ H2O2 [x] + glyoxalate [x]	Hao	Peroxisome
+MAR08743	FADH2 [m] + fumarate [m] ⇔ FAD [m] + succinate [m]	SdhC; SdhA; SdhB; SdhD	Mitochondria
+MAR08772	ATP [c] + D-xylulose [c] ⇒ ADP [c] + D-xylulose-1-phosphate [c] + H+ [c]	CG7328	Cytosol
+MAR08773	D-xylulose-1-phosphate [c] ⇔ DHAP [c] + glycolaldehyde [c]	Ald1	Cytosol
+MAR08774	H+ [c] + hydroxypyruvate [c] ⇒ CO2 [c] + glycolaldehyde [c]		Cytosol
+MAR08775	H2O [c] + NAD+ [c] + glycolaldehyde [c] ⇒ 2 H+ [c] + NADH [c] + glycolate [c]	Aldh-III; Aldh7A1; CG31075	Cytosol
+MAR08777	H+ [m] + hydroxypyruvate [m] ⇒ CO2 [m] + glycolaldehyde [m]		Mitochondria
+MAR08778	H2O [m] + NAD+ [m] + glycolaldehyde [m] ⇒ 2 H+ [m] + NADH [m] + glycolate [m]	Aldh-III; Aldh7A1; Aldh	Mitochondria
+MAR08779	H+ [m] + NADPH [m] + glyoxalate [m] ⇒ NADP+ [m] + glycolate [m]	CG1236	Mitochondria
+MAR08780	H2O [c] + NAD+ [c] + glyoxalate [c] ⇒ 2 H+ [c] + NADH [c] + oxalate [c]	Ldh; TSG101	Cytosol
+MAR08781	ATP [c] + glycerate [c] ⇒ 2-phospho-D-glycerate [c] + ADP [c] + H+ [c]		Cytosol
+MAR08782	H+ [c] + NADH [c] + hydroxypyruvate [c] ⇒ NAD+ [c] + glycerate [c]	CG1236	Cytosol
+MAR08981	NAD+ [x] + malate [x] ⇔ H+ [x] + NADH [x] + OAA [x]		Peroxisome

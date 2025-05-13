@@ -1,0 +1,199 @@
+Reaction ID	Equation	Genes	C/P	Subsystem	Compartment
+MAR00044	NAD+ [c] + hydracrylate [c] ⇔ 3-oxopropanoate [c] + H+ [c] + NADH [c]		consume/produce	Propanoate metabolism	Cytosol
+MAR00067	2(S)-pristanal [c] + H2O [c] + NAD+ [c] ⇒ 2 H+ [c] + NADH [c] + pristanic acid [c]	Aldh-III	consume	Fatty acid oxidation	Cytosol
+MAR00144	H+ [c] + NADH [c] + O2 [c] + palmitoyl-CoA [c] ⇒ 2 H2O [c] + NAD+ [c] + palmitoleoyl-CoA [c]	Desat1	produce	Fatty acid biosynthesis	Cytosol
+MAR00146	H+ [c] + NADH [c] + O2 [c] + stearoyl-CoA [c] ⇒ 2 H2O [c] + NAD+ [c] + oleoyl-CoA [c]	Desat1	produce	Fatty acid biosynthesis	Cytosol
+MAR00147	H+ [c] + NADH [c] + O2 [c] + stearoyl-CoA [c] ⇒ 11-Octadecenoyl Coenzyme A [c] + 2 H2O [c] + NAD+ [c]	Desat1	produce	Fatty acid biosynthesis	Cytosol
+MAR00148	H+ [c] + NADH [c] + O2 [c] + stearoyl-CoA [c] ⇒ (2E)-octadecenoyl-CoA [c] + 2 H2O [c] + NAD+ [c]	Desat1	produce	Fatty acid biosynthesis	Cytosol
+MAR00456	H2O [c] + NAD+ [c] + glyceraldehyde [c] ⇒ 2 H+ [c] + NADH [c] + glycerate [c]	Aldh-III; Aldh7A1; Aldh	consume	Glycerolipid metabolism	Cytosol
+MAR00479	DHAP [c] + H+ [c] + NADH [c] ⇒ NAD+ [c] + sn-glycerol-3-phosphate [c]	Gpdh1	produce	Glycerophospholipid metabolism	Cytosol
+MAR00719	AKG [c] + H+ [c] + NADH [c] ⇒ 2-hydroxyglutarate [c] + NAD+ [c]	CG6287	produce	Butanoate metabolism	Cytosol
+MAR00990	15(S)-HETE [c] + NAD+ [c] ⇒ 15-oxoETE [c] + H+ [c] + NADH [c]		consume	Arachidonic acid metabolism	Cytosol
+MAR01065	11,12-EET [c] + ATP [c] + CoA [c] + 2 H2O [c] + NAD+ [c] + O2 [c] ⇒ 9,10-epoxy-(6Z,12Z)-octadecadienoic acid [c] + AMP [c] + H2O2 [c] + NADH [c] + PPi [c] + acetyl-CoA [c]	Mfe2; Fatp2; Amacr; Echs1; scu; yip2; Acsf2; ACOX1; Acox3; Mtpβ; Fatp1; Acsf3; Mtpα; Aasdh	consume	Arachidonic acid metabolism	Cytosol
+MAR01066	9,10-epoxy-(6Z,12Z)-octadecadienoic acid [c] + ATP [c] + CoA [c] + 2 H2O [c] + NAD+ [c] + O2 [c] ⇒ 7,8-epoxy-(4Z,10Z)-hexadecadienoic acid [c] + AMP [c] + 2 H+ [c] + H2O2 [c] + NADH [c] + PPi [c] + acetyl-CoA [c]	scu; ACOX1; Acox3; Mtpα; yip2; Fatp2; Amacr; Echs1; Mfe2; Mtpβ; Acsf2; Acsf3; Aasdh; Fatp1	consume	Arachidonic acid metabolism	Cytosol
+MAR01067	7,8-epoxy-(4Z,10Z)-hexadecadienoic acid [c] + ATP [c] + CoA [c] + 2 H2O [c] + NAD+ [c] + O2 [c] ⇒ 5,6-epoxy-(8Z)-tetradecenoic acid [c] + AMP [c] + H2O2 [c] + NADH [c] + PPi [c] + acetyl-CoA [c]	Mfe2; Mtpβ; Mtpα; Acsf3; Fatp2; ACOX1; Echs1; Aasdh; yip2; scu; Acsf2; Acox3; Fatp1; Amacr	consume	Arachidonic acid metabolism	Cytosol
+MAR01068	14,15-EET [c] + ATP [c] + CoA [c] + 2 H2O [c] + NAD+ [c] + O2 [c] ⇒ 12,13-epoxy-(6Z,9Z)-octadecadienoic acid [c] + AMP [c] + H2O2 [c] + NADH [c] + PPi [c] + acetyl-CoA [c]	Amacr; scu; Echs1; Fatp2; ACOX1; Acsf2; Fatp1; Mtpβ; Aasdh; Mtpα; yip2; Acox3; Acsf3; Mfe2	consume	Arachidonic acid metabolism	Cytosol
+MAR01069	12,13-epoxy-(6Z,9Z)-octadecadienoic acid [c] + ATP [c] + CoA [c] + 2 H2O [c] + NAD+ [c] + O2 [c] ⇒ 10,11-epoxy-(4Z,7Z)-hexadecadienoic acid [c] + AMP [c] + 2 H+ [c] + H2O2 [c] + NADH [c] + PPi [c] + acetyl-CoA [c]	Acox3; Fatp2; scu; Mfe2; Mtpβ; Amacr; ACOX1; Mtpα; Echs1; yip2; Fatp1; Acsf2; Aasdh; Acsf3	consume	Arachidonic acid metabolism	Cytosol
+MAR01070	10,11-epoxy-(4Z,7Z)-hexadecadienoic acid [c] + ATP [c] + CoA [c] + H+ [c] + 2 H2O [c] + NAD+ [c] + O2 [c] ⇒ 8,9-epoxy-(5Z)-tetradecenoic acid [c] + AMP [c] + H2O2 [c] + NADH [c] + PPi [c] + acetyl-CoA [c]	Mtpβ; Mtpα; scu; Mfe2; Fatp2; Echs1; Fatp1; Amacr; Acsf2; ACOX1; Acox3; Aasdh; Acsf3; yip2	consume	Arachidonic acid metabolism	Cytosol
+MAR01074	12(S)-HETE [c] + H+ [c] + NADH [c] ⇔ 12-hetre [c] + NAD+ [c]	Sc2; spidey	consume/produce	Arachidonic acid metabolism	Cytosol
+MAR01097	15-oxo-lipoxin A4 [c] + H+ [c] + NADH [c] ⇔ NAD+ [c] + lipoxin A4 [c]	CG4842; Pdh	consume/produce	Leukotriene metabolism	Cytosol
+MAR01100	NAD+ [c] + leukotriene B4 [c] ⇒ 12-keto-LTB4 [c] + H+ [c] + NADH [c]	Dhrs4	consume	Leukotriene metabolism	Cytosol
+MAR01129	20-OH-LTB4 [c] + NAD+ [c] ⇔ 20-oxo-LTB4 [c] + H+ [c] + NADH [c]	T3dh; Fdh	consume/produce	Leukotriene metabolism	Cytosol
+MAR01132	20-COOH-LTB4 [c] + 2 H+ [c] + NADH [c] ⇔ 20-oxo-LTB4 [c] + H2O [c] + NAD+ [c]	Aldh7A1; Aldh; Aldh-III	consume/produce	Leukotriene metabolism	Cytosol
+MAR01228	12-keto-LTB4 [c] + H+ [c] + NADH [c] ⇒ 10,11-dihydro-12-oxo-LTB4 [c] + NAD+ [c]	spidey; Sc2	produce	Leukotriene metabolism	Cytosol
+MAR01317	11-dehydro-thromboxane B2 [c] + H+ [c] + NADH [c] ⇔ NAD+ [c] + thromboxane B2 [c]		consume/produce	Prostaglandin biosynthesis	Cytosol
+MAR01319	6-oxo-prostaglandin E1 [c] + H+ [c] + NADH [c] ⇔ 6-oxo-prostaglandin F1alpha [c] + NAD+ [c]		consume/produce	Prostaglandin biosynthesis	Cytosol
+MAR01320	6-oxo-prostaglandin F1alpha [c] + 2 H+ [c] + 2 NADH [c] ⇔ H2O [c] + 2 NAD+ [c] + prostaglandin F1alpha [c]		consume/produce	Prostaglandin biosynthesis	Cytosol
+MAR01325	NAD+ [c] + prostaglandin F2alpha [c] ⇒ H+ [c] + NADH [c] + prostaglandin H2 [c]	CG6083	consume	Prostaglandin biosynthesis	Cytosol
+MAR01328	15-keto-prostaglandin F2alpha [c] + H+ [c] + NADH [c] ⇔ NAD+ [c] + prostaglandin F2alpha [c]		consume/produce	Prostaglandin biosynthesis	Cytosol
+MAR01453	3 H+ [c] + NADH [c] + 2 hydroxypyruvate [c] ⇒ 2 (S)-Glycerate [c] + NAD+ [c]	Ldh	produce	Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism	Cytosol
+MAR01531	H+ [c] + NADH [c] + O2 [c] + provitamin D3 [c] ⇒ 27alpha-hydroxy-7-dehydrocholesterol [c] + H2O [c] + NAD+ [c]	Cyp12a4; Cyp12d1-p; Cyp12a5; Cyp12d1-d; Cyp12c1; Cyp12b2	produce	Cholesterol metabolism	Cytosol
+MAR01542	ATP [c] + H+ [c] + nicotinamide D-ribonucleotide [c] ⇒ NAD+ [c] + PPi [c]	Nmnat	produce	Nicotinate and nicotinamide metabolism	Cytosol
+MAR01568	H2O [c] + NAD+ [c] + acetaldehyde [c] ⇒ 2 H+ [c] + NADH [c] + acetate [c]	Aldh-III	consume	Pyruvate metabolism	Cytosol
+MAR01598	7alpha,12alpha-dihydroxy-5beta-cholestan-3-one [c] + H+ [c] + NADH [c] ⇒ 5beta-cholestan-3alpha,7alpha,12alpha-triol [c] + NAD+ [c]	CG6083	produce	Bile acid biosynthesis	Cytosol
+MAR01608	5beta-cholestane-3alpha,7alpha,12alpha,26-tetrol [c] + NAD+ [c] ⇒ 3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-al [c] + H+ [c] + NADH [c]	Cyp12b2; Cyp12c1; Cyp12d1-p; Cyp12a5; Cyp12d1-d; Cyp12a4	consume	Bile acid biosynthesis	Cytosol
+MAR01611	3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-al [c] + H2O [c] + NAD+ [c] ⇒ 3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanate [c] + 2 H+ [c] + NADH [c]	Cyp12c1; Cyp12a4; Cyp12d1-d; Cyp12b2; Cyp12d1-p; Cyp12a5	consume	Bile acid biosynthesis	Cytosol
+MAR01678	7alpha-hydroxy-5beta-cholestan-3-one [c] + H+ [c] + NADH [c] ⇒ 5beta-cholestane-3alpha,7alpha-diol [c] + NAD+ [c]	CG6083	produce	Bile acid biosynthesis	Cytosol
+MAR01684	3alpha,7alpha-dihydroxy-5beta-cholestan-26-al [c] + H+ [c] + NADH [c] ⇔ 5beta-cholestane-3alpha,7alpha,26-triol [c] + NAD+ [c]	Fdh; T3dh	consume/produce	Bile acid biosynthesis	Cytosol
+MAR01692	3alpha,7alpha-dihydroxy-5beta-cholestan-26-al [c] + H2O [c] + NAD+ [c] ⇔ 3alpha,7alpha-dihydroxy-5beta-cholestanate [c] + 2 H+ [c] + NADH [c]	Aldh; Aldh7A1; Aldh-III	consume/produce	Bile acid biosynthesis	Cytosol
+MAR01738	NAD+ [c] + cholest-5-ene-3beta,7alpha,24(S)-triol [c] ⇒ 4-cholesten-7alpha,24(S)-diol-3-one [c] + H+ [c] + NADH [c]	CG7724	consume	Bile acid biosynthesis	Cytosol
+MAR01766	NAD+ [c] + cholest-5-ene-3beta,7alpha,27-triol [c] ⇒ 4-cholesten-7alpha,27-diol-3-one [c] + H+ [c] + NADH [c]	CG7724	consume	Bile acid biosynthesis	Cytosol
+MAR01803	3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-al [c] + H+ [c] + NADH [c] ⇔ 5beta-cholestane-3alpha,7alpha,12alpha,27-tetraol [c] + NAD+ [c]	Cyp12b2; Cyp12d1-d; Cyp12a5; Cyp12d1-p; Cyp12c1; Cyp12a4	consume/produce	Bile acid biosynthesis	Cytosol
+MAR01941	21-hydroxypregnenolone [c] + NAD+ [c] ⇒ 11-deoxycorticosterone [c] + H+ [c] + NADH [c]	CG7724	consume	Steroid metabolism	Cytosol
+MAR01949	17alpha,21-dihydroxypregnenolone [c] + NAD+ [c] ⇒ 11-deoxycortisol [c] + H+ [c] + NADH [c]	CG7724	consume	Steroid metabolism	Cytosol
+MAR01951	11beta,17alpha,21-trihydroxypregnenolone [c] + NAD+ [c] ⇒ H+ [c] + NADH [c] + cortisol [c]	CG7724	consume	Steroid metabolism	Cytosol
+MAR01967	NAD+ [c] + dehydroepiandrosterone [c] ⇒ 5-androstene-3,17-dione [c] + H+ [c] + NADH [c]	CG7724	consume	Androgen metabolism	Cytosol
+MAR01970	5-androstene-3,17-dione [c] + H+ [c] + NAD+ [c] ⇒ 4-androstene-3,17-dione [c] + NADH [c]	CG7724	consume	Androgen metabolism	Cytosol
+MAR01979	NAD+ [c] + pregnenolone [c] ⇒ H+ [c] + NADH [c] + pregn-5-ene-3,20-dione [c]	CG7724	consume	Glucocorticoid biosynthesis	Cytosol
+MAR01982	17alpha-hydroxypregnenolone [c] + NAD+ [c] ⇒ H+ [c] + NADH [c] + pregn-5-ene-3,20-dione-17-ol [c]	CG7724	consume	Androgen metabolism	Cytosol
+MAR02004	5alpha-pregnane-3,20-dione [c] + H+ [c] + NADH [c] ⇔ NAD+ [c] + allopregnanolone [c]	CG6083	consume/produce	Steroid metabolism	Cytosol
+MAR02016	5alpha-androstane-3,17-dione [c] + H+ [c] + NADH [c] ⇒ NAD+ [c] + androsterone [c]	CG6083	produce	Androgen metabolism	Cytosol
+MAR02022	5-alpha-dihydrotestosterone [c] + NADH [c] ⇔ H+ [c] + NAD+ [c] + androstenediol [c]	CG7724	consume/produce	Androgen metabolism	Cytosol
+MAR02131	23s,25-dihydroxyvitamin D3 [c] + H+ [c] + NADH [c] + O2 [c] ⇒ 23S,25,26-trihydroxyvitamin D3 [c] + H2O [c] + NAD+ [c]	Cyp4c3; Coq6	produce	Vitamin D metabolism	Cytosol
+MAR02139	(24R)-24,25-dihydroxycalciol [c] + H+ [c] + NADH [c] + O2 [c] ⇒ H2O [c] + NAD+ [c] + calcitetrol [c]	Cyp12a4; Cyp12c1; Cyp12b2; Cyp12a5; Cyp12d1-d; Cyp12d1-p	produce	Vitamin D metabolism	Cytosol
+MAR02492	(3S)-3-hydroxylinoleoyl-CoA [c] + NAD+ [c] ⇔ 3-oxolinoleoyl-CoA [c] + H+ [c] + NADH [c]		consume/produce	Fatty acid oxidation	Cytosol
+MAR02505	(9Z,12Z,15Z,18Z,21Z)-tetracosapentaenoyl-CoA [c] + H+ [c] + NADH [c] + O2 [c] ⇒ (6Z,9Z,12Z,15Z,18Z,21Z)-tetracosahexaenoyl-CoA [c] + 2 H2O [c] + NAD+ [c]		produce	Omega-3 fatty acid metabolism	Cytosol
+MAR02779	D-glucitol [c] + NAD+ [c] ⇔ H+ [c] + NADH [c] + glucose [c]		consume/produce	Fructose and mannose metabolism	Cytosol
+MAR02820	(3S)-3-hydroxy-cis,cis-palmito-7,10-dienoyl-CoA [c] + NAD+ [c] ⇔ 3-oxo-cis,cis-7,10-hexadecadienoyl-CoA [c] + H+ [c] + NADH [c]		consume/produce	Fatty acid oxidation	Cytosol
+MAR02826	3(S)-hydroxy-(5Z,8Z)-tetradecadienoyl-CoA [c] + NAD+ [c] ⇔ 3-oxo-cis,cis-5,8-tetradecadienoyl-CoA [c] + H+ [c] + NADH [c]		consume/produce	Fatty acid oxidation	Cytosol
+MAR02828	(3S)-3-hydroxydodec-cis-6-enoyl-CoA [c] + NAD+ [c] ⇔ 3-oxolaur-6-cis-enoyl-CoA [c] + H+ [c] + NADH [c]		consume/produce	Fatty acid oxidation	Cytosol
+MAR02860	7alpha-hydroxycholesterol [c] + NAD+ [c] ⇔ 7alpha-hydroxycholest-4-en-3-one [c] + H+ [c] + NADH [c]		consume/produce	Bile acid biosynthesis	Cytosol
+MAR02883	5beta-cholestane-3alpha,7alpha,27-triol [c] + NAD+ [c] ⇔ 3alpha,7alpha-dihydroxy-5beta-cholestan-26-al [c] + H+ [c] + NADH [c]		consume/produce	Bile acid biosynthesis	Cytosol
+MAR03036	H2O [c] + 2 NAD+ [c] + Vitamin A2 [c] ⇔ All-Trans-3,4-Didehydroretinoate [c] + 3 H+ [c] + 2 NADH [c]		consume/produce	Vitamin A metabolism	Cytosol
+MAR03039	8-Dehydrocholesterol [c] + H+ [c] + NADH [c] + O2 [c] ⇒ 27Alpha-Hydroxy-8-Dehydrocholesterol [c] + H2O [c] + NAD+ [c]		produce	Miscellaneous	Cytosol
+MAR03238	H+ [c] + NADH [c] + O2 [c] + dihydroceramide pool [c] ⇒ 2 H2O [c] + NAD+ [c] + ceramide pool [c]		produce	Sphingolipid metabolism	Cytosol
+MAR03266	(S)-3-hydroxypalmitoleoyl-CoA [c] + NAD+ [c] ⇔ 3-oxopalmitoleoyl-CoA [c] + H+ [c] + NADH [c]		consume/produce	Fatty acid oxidation	Cytosol
+MAR03267	NAD+ [c] + cis-(3S)-hydroxytetradec-7-enoyl-CoA [c] ⇔ 3-oxomyrist-7-enoyl-CoA [c] + H+ [c] + NADH [c]		consume/produce	Fatty acid oxidation	Cytosol
+MAR03268	3(S)-3-Hydroxydodecen-(5Z)-Oyl Coenzyme A [c] + NAD+ [c] ⇔ 3-Oxolaur-Cis-5-Enoyl Coenzyme A [c] + H+ [c] + NADH [c]		consume/produce	Fatty acid oxidation	Cytosol
+MAR03599	H+ [c] + L-dopachrome [c] + NADH [c] ⇔ 2-carboxy-2,3-dihydro-5,6-dihydroxyindole [c] + NAD+ [c]		consume/produce	Tyrosine metabolism	Cytosol
+MAR03758	24(R),25(R)-Varanoyl Coenzyme A [c] + NAD+ [c] ⇔ 24-Oxo-25(R)-Trihydroxycoprostanoyl Coenzyme A [c] + H+ [c] + NADH [c]		consume/produce	Fatty acid oxidation	Cytosol
+MAR03808	3(S),12(R)-dihydroxy-5-oxo-eicosa-(8E,10E,14Z)-trienoyl-CoA [c] + NAD+ [c] ⇔ 3,5-dioxo-12(R)-hydroxy-eicosa-(8E,10E,14Z)-trienoyl-CoA [c] + H+ [c] + NADH [c]	scu	consume/produce	Eicosanoid metabolism	Cytosol
+MAR03812	3(S),12(S)-dihydroxy-5-oxo-eicosa-(8E,10E,14Z)-trienoyl-CoA [c] + NAD+ [c] ⇔ 3,5-dioxo-12(S)-hydroxy-eicosa-(8E,10E,14Z)-trienoyl-CoA [c] + H+ [c] + NADH [c]	scu	consume/produce	Eicosanoid metabolism	Cytosol
+MAR03815	3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanate [c] + 2 H+ [c] + NADH [c] ⇔ 3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-27-al [c] + H2O [c] + NAD+ [c]	Aldh-III	consume/produce	Bile acid biosynthesis	Cytosol
+MAR03835	1-pyrroline-5-carboxylate [c] + 2 H+ [c] + NADH [c] ⇒ NAD+ [c] + proline [c]	P5cr-2	produce	Arginine and proline metabolism	Cytosol
+MAR03839	3-phospho-D-glycerate [c] + NAD+ [c] ⇔ 3-phosphonooxypyruvate [c] + H+ [c] + NADH [c]	CG6287	consume/produce	Glycine, serine and threonine metabolism	Cytosol
+MAR03854	H+ [c] + NADH [c] + methylglyoxal [c] ⇒ NAD+ [c] + lactaldehyde [c]	Akr1B	produce	Pyruvate metabolism	Cytosol
+MAR03856	H+ [c] + NADH [c] + methylglyoxal [c] ⇒ D-lactaldehyde [c] + NAD+ [c]	CG1236	produce	Glycine, serine and threonine metabolism	Cytosol
+MAR03876	3(S),5(S),12(R)-trihydroxy-eicosa-8-trans-6,14-cis-trienoyl-CoA [c] + NAD+ [c] ⇔ 3-oxo-5(S),12(R)-dihydroxy-eicosa-8-trans-6,14-cis-trienoyl-CoA [c] + H+ [c] + NADH [c]	scu	consume/produce	Eicosanoid metabolism	Cytosol
+MAR03905	NAD+ [c] + ethanol [c] ⇒ H+ [c] + NADH [c] + acetaldehyde [c]	Fdh; T3dh	consume	Glycolysis / Gluconeogenesis	Cytosol
+MAR03911	H+ [c] + NADH [c] + taurine [c] ⇒ H2O [c] + NAD+ [c] + hypotaurine [c]		produce	Bile acid biosynthesis	Cytosol
+MAR03925	H+ [c] + NADH [c] + dihydrobiopterin [c] ⇔ NAD+ [c] + tetrahydrobiopterin [c]	Dhpr	consume/produce	Folate metabolism	Cytosol
+MAR03933	H+ [c] + NADH [c] + formylglutathione [c] ⇔ NAD+ [c] + hydroxymethylglutathione [c]	Fdh	consume/produce	Glutathione metabolism	Cytosol
+MAR03983	20-CoA-20-oxo-18r-hydroxy-LTB4 [c] + NAD+ [c] ⇔ 18,20-dioxo-20-CoA-LTB4 [c] + H+ [c] + NADH [c]	scu	consume/produce	Eicosanoid metabolism	Cytosol
+MAR03992	NADH [c] + 2 ferricytochrome B5 [c] ⇔ H+ [c] + NAD+ [c] + 2 ferrocytochrome B5 [c]	CG7914; CG11257; CG5946	consume/produce	Nicotinate and nicotinamide metabolism	Cytosol
+MAR03996	H+ [c] + NADH [c] + cystine [c] ⇔ NAD+ [c] + 2 cysteine [c]		consume/produce	Cysteine and methionine metabolism	Cytosol
+MAR04040	H2O [c] + IMP [c] + NAD+ [c] ⇒ H+ [c] + NADH [c] + xanthosine-5-phosphate [c]	ras	consume	Purine metabolism	Cytosol
+MAR04122	H2O [c] + 2 NAD+ [c] + UDP-glucose [c] ⇒ 3 H+ [c] + 2 NADH [c] + UDP-glucuronate [c]	sgl	consume	Starch and sucrose metabolism	Cytosol
+MAR04139	H+ [c] + NADH [c] + OAA [c] ⇔ NAD+ [c] + malate [c]	Mdh1	consume/produce	Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism	Cytosol
+MAR04202	NAD+ [c] + methanol [c] ⇒ H+ [c] + NADH [c] + formaldehyde [c]	Fdh; T3dh	consume	Miscellaneous	Cytosol
+MAR04233	2-aminomuconate semialdehyde [c] + H2O [c] + NAD+ [c] ⇒ 2-aminomuconate [c] + 2 H+ [c] + NADH [c]		consume	Phenylalanine, tyrosine and tryptophan biosynthesis	Cytosol
+MAR04260	ATP [c] + H2O [c] + deamido-NAD [c] + glutamine [c] ⇒ AMP [c] + H+ [c] + NAD+ [c] + PPi [c] + glutamate [c]	Nadsyn	produce	Nicotinate and nicotinamide metabolism	Cytosol
+MAR04261	ATP [c] + NH3 [c] + deamido-NAD [c] ⇒ AMP [c] + NAD+ [c] + PPi [c]	Nadsyn	produce	Nicotinate and nicotinamide metabolism	Cytosol
+MAR04269	ATP [c] + NAD+ [c] ⇒ ADP [c] + H+ [c] + NADP+ [c]	Nadk2; Nadk1b; Nadk1a	consume	Nicotinate and nicotinamide metabolism	Cytosol
+MAR04270	H2O [c] + NADP+ [c] ⇒ NAD+ [c] + Pi [c]	CG1637; Acph-1; CG15385	produce	Nicotinate and nicotinamide metabolism	Cytosol
+MAR04315	D-glucitol [c] + NAD+ [c] ⇔ H+ [c] + NADH [c] + fructose [c]	Sodh2; Sodh1	consume/produce	Fructose and mannose metabolism	Cytosol
+MAR04332	H+ [c] + NADH [c] + dihydrofolate [c] ⇔ NAD+ [c] + THF [c]	Dhfr	consume/produce	Folate metabolism	Cytosol
+MAR04344	5,6-Dihydrouracil [c] + NAD+ [c] ⇔ H+ [c] + NADH [c] + uracil [c]		consume/produce	Nucleotide metabolism	Cytosol
+MAR04373	1,3-bisphospho-D-glycerate [c] + H+ [c] + NADH [c] ⇔ GAP [c] + NAD+ [c] + Pi [c]	Gapdh2; Gapdh1	consume/produce	Glycolysis / Gluconeogenesis	Cytosol
+MAR04388	H+ [c] + NADH [c] + pyruvate [c] ⇔ L-lactate [c] + NAD+ [c]	Ldh	consume/produce	Glycolysis / Gluconeogenesis	Cytosol
+MAR04400	GDP-4-dehydro-6-deoxy-D-mannose [c] + H+ [c] + NADH [c] ⇒ GDP-L-fucose [c] + NAD+ [c]	Gmer	produce	Fructose and mannose metabolism	Cytosol
+MAR04431	H2O [c] + NAD+ [c] + methylimidazole-acetaldehyde [c] ⇒ 2 H+ [c] + NADH [c] + methylimidazoleacetic acid [c]	Aldh-III	consume	Histidine metabolism	Cytosol
+MAR04448	5,10-methylene-THF [c] + 2 H+ [c] + NADH [c] ⇒ 5-methyl-THF [c] + NAD+ [c]	CG7560	produce	Folate metabolism	Cytosol
+MAR04470	H+ [c] + NADH [c] + thymine [c] ⇒ NAD+ [c] + dihydrothymine [c]	sur	produce	Pyrimidine metabolism	Cytosol
+MAR04519	H2O [c] + NAD+ [c] + hypoxanthine [c] ⇒ H+ [c] + NADH [c] + xanthine [c]	ry	consume	Purine metabolism	Cytosol
+MAR04531	H+ [c] + N-acetylneuraminate [c] + NADH [c] + O2 [c] ⇒ H2O [c] + NAD+ [c] + neungc [c]		produce	Amino sugar and nucleotide sugar metabolism	Cytosol
+MAR04533	CMP-neuNGc [c] + H2O [c] + NAD+ [c] ⇒ CMP-N-acetylneuraminate [c] + H+ [c] + NADH [c] + O2 [c]		consume	Amino sugar and nucleotide sugar metabolism	Cytosol
+MAR04559	5-hydroxyindoleacetaldehyde [c] + H2O [c] + NAD+ [c] ⇒ 5-hydroxyindoleacetate [c] + 2 H+ [c] + NADH [c]	Aldh-III; Aldh; Aldh7A1	consume	Serotonin and melatonin biosynthesis	Cytosol
+MAR04591	NAD+ [c] + xylitol [c] ⇒ H+ [c] + L-xylulose [c] + NADH [c]	CG16935	consume	Pentose and glucuronate interconversions	Cytosol
+MAR04593	NAD+ [c] + xylitol [c] ⇒ D-xylulose [c] + H+ [c] + NADH [c]	Sodh2; Sodh1	consume	Pentose and glucuronate interconversions	Cytosol
+MAR04646	H2O [c] + NAD+ [c] + xanthine [c] ⇒ H+ [c] + NADH [c] + urate [c]	ry	consume	Purine metabolism	Cytosol
+MAR04654	NADH [c] + folate [c] ⇔ NAD+ [c] + dihydrofolate [c]	Dhfr	consume/produce	Folate metabolism	Cytosol
+MAR04683	H2O [c] + NAD+ [c] + phenylacetaldehyde [c] ⇒ 2 H+ [c] + NADH [c] + phenylacetate [c]	Aldh-III	consume	Tyrosine metabolism	Cytosol
+MAR04696	NAD+ [c] + choline [c] ⇒ H+ [c] + NADH [c] + betaine_aldehyde [c]	Gld; CG9521; CG12398; CG9519; CG9514	consume	Glycine, serine and threonine metabolism	Cytosol
+MAR04697	H2O [c] + NAD+ [c] + betaine_aldehyde [c] ⇒ 2 H+ [c] + NADH [c] + betaine [c]	Aldh7A1	consume	Glycine, serine and threonine metabolism	Cytosol
+MAR04703	H2O [c] + NAD+ [c] + gentisate aldehyde [c] ⇒ 2,5-dihydroxybenzoate [c] + 2 H+ [c] + NADH [c]	ry	consume	Tyrosine metabolism	Cytosol
+MAR04737	2-aminoadipate 6-semialdehyde [c] + H2O [c] + NAD+ [c] ⇒ 2 H+ [c] + L-2-aminoadipate [c] + NADH [c]	Aldh7A1	consume	Lysine metabolism	Cytosol
+MAR04764	H+ [c] + NADH [c] + biliverdin [c] ⇒ NAD+ [c] + bilirubin [c]	CG9471	produce	Porphyrin metabolism	Cytosol
+MAR04778	NAD+ [c] + trans-4-hydroxy-L-proline [c] ⇒ 2 H+ [c] + L-1-pyrroline-3-hydroxy-5-carboxylate [c] + NADH [c]	P5cr-2	consume	Arginine and proline metabolism	Cytosol
+MAR04797	2-methyl-3-oxopropanoate [c] + H2O [c] + NAD+ [c] ⇒ 2 H+ [c] + NADH [c] + methylmalonate [c]	Aldh; Aldh7A1; Aldh-III	consume	Valine, leucine, and isoleucine metabolism	Cytosol
+MAR04841	H+ [c] + NADH [c] + ribose [c] ⇔ NAD+ [c] + ribitol [c]	Aldh-III	consume/produce	Pentose phosphate pathway	Cytosol
+MAR05351	2-hydroxybutyrate [c] + NAD+ [c] ⇔ 2-oxobutyrate [c] + H+ [c] + NADH [c]	Ldh	consume/produce	Butanoate metabolism	Cytosol
+MAR06349	16-hydroxyhexadecanoic acid [c] + H2O [c] + 2 NAD+ [c] ⇒ 3 H+ [c] + Hexadecanediocacid [c] + 2 NADH [c]	Aldh-III; Fdh	consume	Fatty acid oxidation	Cytosol
+MAR06350	H2O [c] + 2 NAD+ [c] + W-Hydroxydocosanoicacid [c] ⇒ Docosanedioicacid [c] + 2 H+ [c] + 2 NADH [c]	Aldh-III; Fdh	consume	Fatty acid oxidation	Cytosol
+MAR06376	H2O [c] + 2 NAD+ [c] + W-Hydroxydecanoicacid [c] ⇒ 3 H+ [c] + 2 NADH [c] + Sebacicacid [c]	Aldh-III; Fdh	consume	Fatty acid oxidation	Cytosol
+MAR06397	H+ [c] + NADH [c] + lipoic acid [c] ⇔ NAD+ [c] + dihydrolipoate [c]	CG7430	consume/produce	Lipoic acid metabolism	Cytosol
+MAR06404	H+ [c] + NADH [c] + [protein]-N6-(lipoyl)lysine [c] ⇔ NAD+ [c] + [protein]-N6-(dihydrolipoyl)lysine [c]	CG7430	consume/produce	Lipoic acid metabolism	Cytosol
+MAR06510	FAD [c] + H+ [c] + NADH [c] ⇒ FADH2 [c] + NAD+ [c]		produce	Riboflavin metabolism	Cytosol
+MAR06519	3-mercaptolactate [c] + NAD+ [c] ⇔ H+ [c] + NADH [c] + mercaptopyruvate [c]	Ldh	consume/produce	Cysteine and methionine metabolism	Cytosol
+MAR06631	NAD+ [c] + retinol [c] ⇒ H+ [c] + NADH [c] + retinal [c]	CG8888; Fdh; CG9265; T3dh	consume	Retinol metabolism	Cytosol
+MAR06638	11-cis-retinal [c] + H+ [c] + NADH [c] ⇔ 11-cis-retinol [c] + NAD+ [c]	Dhrs4; Cralbp; CG9265; CG10657; CG8888	consume/produce	Retinol metabolism	Cytosol
+MAR06644	9-cis-retinal [c] + H+ [c] + NADH [c] ⇔ 9-cis-retinol [c] + NAD+ [c]	CG9265; CG10657; CG8888; Dhrs4; Cralbp	consume/produce	Retinol metabolism	Cytosol
+MAR06646	H2O [c] + NAD+ [c] + retinal [c] ⇒ 2 H+ [c] + NADH [c] + retinoate [c]	CG31075	consume	Retinol metabolism	Cytosol
+MAR06675	13-cis-retinal [c] + H2O [c] + NAD+ [c] ⇔ 13-cis-retinoate [c] + 2 H+ [c] + NADH [c]	CG31075	consume/produce	Retinol metabolism	Cytosol
+MAR06714	H2O [c] + NAD+ [c] + indole-3-acetaldehyde [c] ⇒ 2 H+ [c] + NADH [c] + indoleacetate [c]	Aldh7A1; Aldh-III; Aldh	consume	Phenylalanine, tyrosine and tryptophan biosynthesis	Cytosol
+MAR06721	3-hydroxykynurenine-O-beta-D-glucoside [c] + NADH [c] ⇒ 4-(2-amino-3-hydroxyphenyl)-4-oxobutanoic acid-O-glucoside [c] + NAD+ [c] + NH3 [c]		produce	Phenylalanine, tyrosine and tryptophan biosynthesis	Cytosol
+MAR06748	3-methoxy-4-hydroxyphenylglycolaldehyde [c] + H2O [c] + NAD+ [c] ⇒ 2 H+ [c] + NADH [c] + vanillylmandelate [c]	Aldh-III	consume	Phenylalanine, tyrosine and tryptophan biosynthesis	Cytosol
+MAR06753	3,4-dihydroxymandelaldehyde [c] + H2O [c] + NAD+ [c] ⇒ 3,4-dihydroxymandelate [c] + 2 H+ [c] + NADH [c]	Aldh-III	consume	Phenylalanine, tyrosine and tryptophan biosynthesis	Cytosol
+MAR06756	3,4-dihydroxymandelaldehyde [c] + H+ [c] + NADH [c] ⇔ 3,4-dihydroxyphenylethyleneglycol [c] + NAD+ [c]	Fdh; T3dh	consume/produce	Phenylalanine, tyrosine and tryptophan biosynthesis	Cytosol
+MAR06760	3,4-dihydroxyphenylacetaldehyde [c] + H2O [c] + NAD+ [c] ⇒ 3,4-dihydroxyphenylacetate [c] + 2 H+ [c] + NADH [c]	Aldh-III	consume	Phenylalanine, tyrosine and tryptophan biosynthesis	Cytosol
+MAR06766	3-methoxy-4-hydroxyphenylacetaldehyde [c] + H2O [c] + NAD+ [c] ⇒ 2 H+ [c] + NADH [c] + homovanillate [c]	Aldh-III	consume	Phenylalanine, tyrosine and tryptophan biosynthesis	Cytosol
+MAR06782	4-hydroxyphenylpyruvate [c] + H+ [c] + NADH [c] ⇒ 4-hydroxyphenyllactate [c] + NAD+ [c]		produce	Phenylalanine, tyrosine and tryptophan biosynthesis	Cytosol
+MAR06785	4-coumaroyl-CoA [c] + CoA [c] + H2O [c] + NAD+ [c] ⇒ 4-hydroxybenzoyl-CoA [c] + H+ [c] + NADH [c] + acetyl-CoA [c]		consume	Phenylalanine, tyrosine and tryptophan biosynthesis	Cytosol
+MAR06790	4-hydroxyphenylacetaldehyde [c] + H2O [c] + NAD+ [c] ⇒ 4-hydroxyphenylacetate [c] + 2 H+ [c] + NADH [c]	Aldh-III	consume	Phenylalanine, tyrosine and tryptophan biosynthesis	Cytosol
+MAR06925	4-methyl-2-oxopentanoate [c] + H+ [c] + NADH [c] ⇔ NAD+ [c] + alpha-hydroxyisocaproic acid [c]	CG8888; Wwox; CG30491; Dhrs4; CG3842; CG3603; CG12171; CG6083; Fdh; CtBP; CG7675; CG31549; CG15629; CG31548; CG9265; CG7724; Akr1B; CG3699; CG31546	consume/produce	Valine, leucine, and isoleucine metabolism	Cytosol
+MAR06953	H2O [c] + NAD+ [c] + spermidine monoaldehyde 1 [c] ⇒ 2 H+ [c] + NADH [c] + putreanine [c]	CG5065	consume	Arginine and proline metabolism	Cytosol
+MAR06954	H2O [c] + NAD+ [c] + spermidine monoaldehyde 2 [c] ⇒ 2 H+ [c] + NADH [c] + isoputreanine [c]	CG5065	consume	Arginine and proline metabolism	Cytosol
+MAR06965	H+ [c] + NADH [c] + dehydrospermidine [c] ⇔ NAD+ [c] + spermidine [c]	Dhps	consume/produce	Arginine and proline metabolism	Cytosol
+MAR06973	2 H+ [c] + NADH [c] + spermic acid 1 [c] ⇔ H2O [c] + NAD+ [c] + spermine monoaldehyde [c]	CG5065	consume/produce	Arginine and proline metabolism	Cytosol
+MAR06981	4-trimethylammoniobutanal [c] + H2O [c] + NAD+ [c] ⇒ 2 H+ [c] + NADH [c] + gamma-butyrobetaine [c]		consume	Lysine metabolism	Cytosol
+MAR07035	NAD+ [c] + chloral hydrate [c] ⇒ 2 H+ [c] + NADH [c] + trichloroacetate [c]	Aldh-III	consume	Xenobiotics metabolism	Cytosol
+MAR07038	H+ [c] + NADH [c] + chloral hydrate [c] ⇒ H2O [c] + NAD+ [c] + trichloroethanol [c]	T3dh; Fdh	produce	Xenobiotics metabolism	Cytosol
+MAR07623	NAD+ [c] + [protein]-L-arginine [c] ⇒ H+ [c] + [protein]-omega-N-(ADP-D-ribosyl)-L-arginine [c] + nicotinamide [c]	Sirt6	consume	Nicotinate and nicotinamide metabolism	Cytosol
+MAR07625	H2O [c] + NAD+ [c] + [protein]-L-arginine [c] ⇒ H+ [c] + N(omega)-(ADP-D-ribosyl)-L-arginine [c] + [protein] [c] + nicotinamide [c]	Sirt6	consume	Nicotinate and nicotinamide metabolism	Cytosol
+MAR07771	NAD+ [x] ⇒ NAD+ [c]		produce	Transport reactions	Peroxisome ⇒ Cytosol
+MAR07772	NAD+ [r] ⇒ NAD+ [c]		produce	Transport reactions	Endoplasmic reticulum ⇒ Cytosol
+MAR07773	NAD+ [c] ⇔ NAD+ [n]		consume/produce	Transport reactions	Cytosol ⇔ Nucleus
+MAR07774	NAD+ [c] ⇒ NAD+ [e]		consume	Transport reactions	Cytosol ⇒ Extracellular
+MAR07930	NAD+ [c] + pregnenolone [c] ⇒ H+ [c] + NADH [c] + progesterone [c]	CG7724	consume	Steroid metabolism	Cytosol
+MAR07973	17alpha-hydroxypregnenolone [c] + NAD+ [c] ⇒ 17alpha-hydroxyprogesterone [c] + H+ [c] + NADH [c]	CG7724	consume	Steroid metabolism	Cytosol
+MAR07993	3-amino-propanal [c] + H2O [c] + NAD+ [c] ⇒ 2 H+ [c] + NADH [c] + beta-alanine [c]	Aldh; Aldh-III; Aldh7A1	consume	Beta-alanine metabolism	Cytosol
+MAR08068	(S)-3-sulfolactate [c] + NAD+ [c] ⇔ 3-sulfopyruvate [c] + H+ [c] + NADH [c]	Mdh1	consume/produce	Cysteine and methionine metabolism	Cytosol
+MAR08144	5,10-methenyl-THF [c] + NADH [c] ⇔ 5,10-methylene-THF [c] + NAD+ [c]	pug	consume/produce	Folate metabolism	Cytosol
+MAR08342	H+ [c] + L-xylulose [c] + NADH [c] ⇔ L-arabitol [c] + NAD+ [c]		consume/produce	Pentose and glucuronate interconversions	Cytosol
+MAR08349	D-glucurono-6,3-lactone [c] + 2 H2O [c] + NAD+ [c] ⇒ D-glucarate [c] + 3 H+ [c] + NADH [c]	Aldh7A1; Aldh; Aldh-III	consume	Ascorbate and aldarate metabolism	Cytosol
+MAR08352	3-dehydro-L-gulonate [c] + H+ [c] + NADH [c] ⇔ L-gulonate [c] + NAD+ [c]	Had1; Had2	consume/produce	Pentose and glucuronate interconversions	Cytosol
+MAR08442	2-oxobutyrate [c] + CoA [c] + NAD+ [c] ⇒ CO2 [c] + NADH [c] + propanoyl-CoA [c]		consume	Glycine, serine and threonine metabolism	Cytosol
+MAR08502	(R)-S-lactoylglutathione [c] + H+ [c] + NADH [c] ⇔ D-lactaldehyde [c] + GSH [c] + NAD+ [c]	Fdh; T3dh	consume/produce	Pyruvate metabolism	Cytosol
+MAR08503	H2O [c] + NAD+ [c] + lactaldehyde [c] ⇒ 2 H+ [c] + L-lactate [c] + NADH [c]	Aldh-III; Aldh7A1	consume	Pyruvate metabolism	Cytosol
+MAR08504	D-lactaldehyde [c] + H2O [c] + NAD+ [c] ⇒ D-lactate [c] + 2 H+ [c] + NADH [c]	Aldh7A1; Aldh-III; Aldh	consume	Pyruvate metabolism	Cytosol
+MAR08507	NAD+ [c] + propane-1,2-diol [c] ⇒ D-lactaldehyde [c] + H+ [c] + NADH [c]	T3dh; Fdh	consume	Pyruvate metabolism	Cytosol
+MAR08508	NAD+ [c] + propane-1,2-diol [c] ⇒ H+ [c] + NADH [c] + lactaldehyde [c]	Fdh; T3dh	consume	Pyruvate metabolism	Cytosol
+MAR08530	GSH [c] + NAD+ [c] + formaldehyde [c] ⇔ H+ [c] + NADH [c] + formylglutathione [c]	Fdh; T3dh	consume/produce	Tyrosine metabolism	Cytosol
+MAR08605	H2O [c] + N4-acetylaminobutanal [c] + NAD+ [c] ⇒ 4-acetamidobutanoate [c] + 2 H+ [c] + NADH [c]	Aldh-III; Aldh7A1; Aldh	consume	Arginine and proline metabolism	Cytosol
+MAR08613	NADH [c] + 2 aquacob(III)alamin [c] ⇒ H+ [c] + 2 H2O [c] + NAD+ [c] + 2 cob(II)alamin [c]		produce	Vitamin B12 metabolism	Cytosol
+MAR08685	3-mercaptolactate [c] + NAD+ [c] + cysteine [c] ⇒ 3-mercaptolactate-cysteine-disulfide [c] + H+ [c] + NADH [c]		consume	Cysteine and methionine metabolism	Cytosol
+MAR08758	NAD+ [c] + formate [c] ⇒ CO2 [c] + NADH [c]	CG8665	consume	Folate metabolism	Cytosol
+MAR08775	H2O [c] + NAD+ [c] + glycolaldehyde [c] ⇒ 2 H+ [c] + NADH [c] + glycolate [c]	Aldh7A1; Aldh-III	consume	Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism	Cytosol
+MAR08780	H2O [c] + NAD+ [c] + glyoxalate [c] ⇒ 2 H+ [c] + NADH [c] + oxalate [c]	Ldh	consume	Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism	Cytosol
+MAR08782	H+ [c] + NADH [c] + hydroxypyruvate [c] ⇒ NAD+ [c] + glycerate [c]	CG1236	produce	Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism	Cytosol
+MAR08784	H2O [c] + NAD+ [c] + imidazole-4-acetaldehyde [c] ⇒ 2 H+ [c] + NADH [c] + imidazole-4-acetate [c]	Aldh-III; Aldh; Aldh7A1	consume	Histidine metabolism	Cytosol
+MAR08982	NAD+ [c] ⇔ NAD+ [m]		consume/produce	Transport reactions	Cytosol ⇔ Mitochondria
+MAR09470	H+ [c] + L-sorbose [c] + NADH [c] ⇔ L-iditol [c] + NAD+ [c]	Sodh1; Sodh2	consume/produce	Isolated	Cytosol
+MAR09487	(ADP-D-ribosyl)n+1-acceptor [c] + NAD+ [c] ⇔ (ADP-D-ribosyl)n-acceptor [c] + H+ [c] + nicotinamide [c]	Parp16; Parp; Tnks	consume/produce	Isolated	Cytosol
+MAR09563	H2O [c] + NAD+ [c] + perillyl aldehyde [c] ⇒ 2 H+ [c] + NADH [c] + perillic acid [c]	Aldh-III; Aldh7A1; Aldh	consume	Isolated	Cytosol
+MAR09934	NAD+ [c] + prostaglandin F2alpha [c] ⇔ 15-Keto-Prostaglandin F2A [c] + H+ [c] + NADH [c]	Pdh; CG4842	consume/produce	Eicosanoid metabolism	Cytosol
+MAR09935	2-oxoadipate [c] + H+ [c] + NADH [c] ⇔ 2-Hydroxyadipic Acid [c] + NAD+ [c]		consume/produce	Lysine metabolism	Cytosol
+MAR09936	NAD+ [c] + Phenyllactate [c] ⇔ H+ [c] + NADH [c] + phenylpyruvate [c]		consume/produce	Phenylalanine metabolism	Cytosol
+MAR09992	D-Arabitol [c] + NAD+ [c] ⇔ H+ [c] + L-xylulose [c] + NADH [c]		consume/produce	Pentose phosphate pathway	Cytosol
+MAR10064	0.0043 (S)-dihydroorotate [c] + 0.0014 2,3-bisphospho-D-glycerate [c] + 0.0022 3-phospho-D-glycerate [c] + 0.0025 3-phosphoserine [c] + 0.0033 ADP [c] + 0.0046 AKG [c] + 0.0002 AMP [c] + 0.0271 ATP [c] + 0.0052 CTP [c] + 0.0234 CoA [c] + 0.0094 DHAP [c] + 0.0008 GAP [c] + 0.0002 GDP [c] + 0.0001 GMP [c] + 0.0179 GSH [c] + 0.0001 GSSG [c] + 0.0039 GTP [c] + 0.0029 NAD+ [c] + 0.0004 NADH [c] + 0.0002 NADP+ [c] + 0.0004 NADPH [c] + 0.0008 UDP [c] + 0.052 UDP-N-acetylglucosamine [c] + 0.0088 UDP-glucose [c] + 0.0006 UDP-glucuronate [c] + 0.0102 UTP [c] + 0.0002 acetyl-CoA [c] + 0.0404 alanine [c] + 0.0015 arginine [c] + 0.0012 asparagine [c] + 0.0865 aspartate [c] + 0.0034 citrate [c] + 0.0005 cysteine [c] + 0.0001 dAMP [c] + 0.0002 dCMP [c] + 0.0088 fructose-1,6-bisphosphate [c] + 0.0006 fructose-6-phosphate [c] + 0.0028 fumarate [c] + 0.0039 glucose-6-phosphate [c] + 0.3694 glutamate [c] + 0.0998 glutamine [c] + 0.0215 glycine [c] + 0.0024 histidine [c] + 0.0002 isocitrate [c] + 0.0102 isoleucine [c] + 0.0102 leucine [c] + 0.0029 lysine [c] + 0.0081 malate [c] + 0.0037 methionine [c] + 0.0049 phenylalanine [c] + 0.0102 phenylpyruvate [c] + 0.0071 proline [c] + 0.034 pyruvate [c] + 0.0002 ribose-5-phosphate [c] + 0.0282 serine [c] + 0.0388 threonine [c] + 0.001 tryptophan [c] + 0.0054 tyrosine [c] + 0.0088 valine [c] ⇒ metabolite_pool_biomass [c]		consume	Artificial reactions	Cytosol
+MAR10066	20alpha-hydroxy-4-pregnen-3-one [c] + NAD+ [c] ⇒ H+ [c] + NADH [c] + progesterone [c]	CG6083	consume	Steroid metabolism	Cytosol
+MAR11462	H+ [c] + NADH [c] + fumarylacetoacetate [c] ⇒ NAD+ [c] + Succinyl-Acetoacetate [c]		produce	Tyrosine metabolism	Cytosol
+MAR11463	4-maleylacetoacetate [c] + H+ [c] + NADH [c] ⇒ NAD+ [c] + Succinyl-Acetoacetate [c]		produce	Tyrosine metabolism	Cytosol
+MAR11468	H+ [c] + NADH [c] + Vanilpyruvic Acid [c] ⇔ NAD+ [c] + Vanil-Lactate [c]		consume/produce	Tyrosine metabolism	Cytosol
+MAR11476	2-oxo-3-methylvalerate [c] + H+ [c] + NADH [c] ⇔ 2-Hydroxy-3-Methyl-Valerate [c] + NAD+ [c]	Ldh	consume/produce	Valine, leucine, and isoleucine metabolism	Cytosol
+MAR11479	3-methyl-2-oxobutyrate [c] + H+ [c] + NADH [c] ⇔ 2-Hydroxy-Isovalerate [c] + NAD+ [c]	Ldh	consume/produce	Valine, leucine, and isoleucine metabolism	Cytosol
+MAR11489	2-Methyl-3-Oxo-Valerate [c] + H+ [c] + NADH [c] ⇔ 2-Methyl-3-Hydroxy-Valerate [c] + NAD+ [c]		consume/produce	Propanoate metabolism	Cytosol
+MAR13003	H2O [c] + NAD+ [c] + UDP-glucuronate [c] ⇒ CO2 [c] + NADH [c] + udp-ribose [c]		consume	Drug metabolism	Cytosol
+MAR13083	H+ [c] + NADH [c] + O2 [c] + hypotaurine [c] ⇒ H2O [c] + NAD+ [c] + taurine [c]	Fmo-2; Fmo-1	produce	Metabolism of other amino acids	Cytosol
+MAR20014	H+ [c] + NADH [c] + O2 [c] + cholesterol [c] ⇒ 2 H2O [c] + NAD+ [c] + provitamin D3 [c]	nvd	produce	Hormone biosynthesis	Cytosol
+MAR20017	AKG [c] + H+ [c] + NADH [c] + glutamine [c] ⇒ NAD+ [c] + 2 glutamate [c]	GS	produce	Alanine, aspartate and glutamate metabolism	Cytosol

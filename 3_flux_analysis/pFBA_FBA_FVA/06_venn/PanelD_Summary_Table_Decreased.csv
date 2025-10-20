@@ -1,0 +1,4 @@
+"Subsystem","Reactions","Key_Genes"
+"Aminoacyl-tRNA biosynthesis",20,"GluProRS, AlaRS, ArgRS, AsnRS, AspRS"
+"Transport reactions",20,"CG13907, chk, Dic1, hrm, CD98hc"
+"Glycolysis / Gluconeogenesis",9,"Ald1, Eno, Gapdh1, Gapdh2, Pfk"

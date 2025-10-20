@@ -1,0 +1,41 @@
+Reaction ID	Equation	Genes	C/P	Subsystem	Compartment
+MAR02027	H2O [c] + cysteine [c] ⇔ H+ [c] + H2S [c] + NH4+ [c] + pyruvate [c]	Cth	consume/produce	Cysteine and methionine metabolism	Cytosol
+MAR03851	3-sulfinylpyruvic acid [c] + H2O [c] ⇒ H+ [c] + pyruvate [c] + sulfite [c]		produce	Sulfur metabolism	Cytosol
+MAR03859	D-lactate [c] + 2 ferricytochrome C [m] ⇒ 2 H+ [c] + 2 ferrocytochrome C [m] + pyruvate [c]	CG15429	produce	Pyruvate metabolism	Cytosol + Mitochondria
+MAR03883	serine [c] ⇒ H+ [c] + NH3 [c] + pyruvate [c]	Srr	produce	Glycine, serine and threonine metabolism	Cytosol
+MAR03899	AKG [c] + alanine [c] ⇔ glutamate [c] + pyruvate [c]	CG1640	consume/produce	Alanine, aspartate and glutamate metabolism	Cytosol
+MAR03974	H2O [c] + dehydroalanine [c] ⇒ H+ [c] + NH3 [c] + pyruvate [c]	Srr	produce	Glycine, serine and threonine metabolism	Cytosol
+MAR04089	NADP+ [c] + malate [c] ⇒ CO2 [c] + NADPH [c] + pyruvate [c]	Men; CG30338	produce	Pyruvate metabolism	Cytosol
+MAR04171	GDP [c] + H+ [c] + PEP [c] ⇒ GTP [c] + pyruvate [c]	PyK	produce	Purine metabolism	Cytosol
+MAR04193	CDP [c] + H+ [c] + PEP [c] ⇒ CTP [c] + pyruvate [c]	PyK	produce	Pyruvate metabolism	Cytosol
+MAR04196	glutamine [c] + pyruvate [c] ⇒ 2-oxoglutaramate [c] + alanine [c]	Kyat	consume	Alanine, aspartate and glutamate metabolism	Cytosol
+MAR04198	pyruvate [c] + serine [c] ⇒ alanine [c] + hydroxypyruvate [c]	Agxt	consume	Glycine, serine and threonine metabolism	Cytosol
+MAR04210	H+ [c] + PEP [c] + UDP [c] ⇒ UTP [c] + pyruvate [c]	PyK	produce	Pyrimidine metabolism	Cytosol
+MAR04302	H2O [c] + cysteine [c] ⇒ 2 H+ [c] + H2S [c] + NH3 [c] + pyruvate [c]	Cth	produce	Cysteine and methionine metabolism	Cytosol
+MAR04358	ADP [c] + H+ [c] + PEP [c] ⇒ ATP [c] + pyruvate [c]	PyK	produce	Glycolysis / Gluconeogenesis	Cytosol
+MAR04388	H+ [c] + NADH [c] + pyruvate [c] ⇔ L-lactate [c] + NAD+ [c]	Ldh	consume/produce	Glycolysis / Gluconeogenesis	Cytosol
+MAR04421	H+ [c] + PEP [c] + dADP [c] ⇒ dATP [c] + pyruvate [c]	PyK	produce	Purine metabolism	Cytosol
+MAR04573	H+ [c] + PEP [c] + dGDP [c] ⇒ dGTP [c] + pyruvate [c]	PyK	produce	Purine metabolism	Cytosol
+MAR04926	H+ [c] + pyruvate [c] ⇒ H+ [m] + pyruvate [m]	CG9399; Mpc1	consume	Transport reactions	Cytosol ⇒ Mitochondria
+MAR04928	H+ [e] + pyruvate [e] ⇒ H+ [c] + pyruvate [c]	CG8468; Mct1; CG13907; Sln; hrm	produce	Transport reactions	Extracellular ⇒ Cytosol
+MAR04930	H+ [c] + pyruvate [c] ⇔ H+ [x] + pyruvate [x]	CG13907; Mct1; hrm; CG8468; Sln	consume/produce	Transport reactions	Cytosol ⇔ Peroxisome
+MAR05426	acetoacetate [c] + pyruvate [m] ⇔ acetoacetate [m] + pyruvate [c]		consume/produce	Transport reactions	Cytosol + Mitochondria
+MAR06000	acetoacetate [c] + pyruvate [e] ⇔ acetoacetate [e] + pyruvate [c]	Mct1; CG13907; Sln; hrm; CG8468	consume/produce	Transport reactions	Cytosol + Extracellular
+MAR06007	2-hydroxybutyrate [c] + pyruvate [e] ⇔ 2-hydroxybutyrate [e] + pyruvate [c]	Mct1; Sln; CG13907; CG8468; hrm	consume/produce	Transport reactions	Cytosol + Extracellular
+MAR06014	AKG [c] + pyruvate [e] ⇔ AKG [e] + pyruvate [c]	CG13907; hrm; Sln; CG8468; Mct1	consume/produce	Transport reactions	Cytosol + Extracellular
+MAR06015	acetate [c] + pyruvate [e] ⇔ acetate [e] + pyruvate [c]	Sln; Mct1; CG13907; hrm; CG8468	consume/produce	Transport reactions	Cytosol + Extracellular
+MAR06016	formate [c] + pyruvate [e] ⇔ formate [e] + pyruvate [c]	Sln; hrm; Mct1; CG8468; CG13907	consume/produce	Transport reactions	Cytosol + Extracellular
+MAR06017	propanoate [c] + pyruvate [e] ⇔ propanoate [e] + pyruvate [c]	Sln; CG13907; Mct1; hrm; CG8468	consume/produce	Transport reactions	Cytosol + Extracellular
+MAR06018	L-lactate [c] + pyruvate [e] ⇔ L-lactate [e] + pyruvate [c]	CG13907; hrm; Mct1; Sln; CG8468	consume/produce	Transport reactions	Cytosol + Extracellular
+MAR06019	butyrate [c] + pyruvate [e] ⇔ butyrate [e] + pyruvate [c]	CG13907; Mct1; Sln; CG8468; hrm	consume/produce	Transport reactions	Cytosol + Extracellular
+MAR06020	pyruvate [c] + retinoate [e] ⇔ pyruvate [e] + retinoate [c]	CG13907; Sln; hrm; Mct1; CG8468	consume/produce	Transport reactions	Cytosol + Extracellular
+MAR06021	(R)-3-hydroxybutanoate [c] + pyruvate [e] ⇔ (R)-3-hydroxybutanoate [e] + pyruvate [c]	CG8468; Mct1; hrm; Sln; CG13907	consume/produce	Transport reactions	Cytosol + Extracellular
+MAR06627	H+ [c] + PEP [c] + dTDP [c] ⇔ dTTP [c] + pyruvate [c]	PyK	consume/produce	Pyrimidine metabolism	Cytosol
+MAR06738	H2O [c] + salsolinol-1-carboxylate [c] ⇔ dopamine [c] + pyruvate [c]		consume/produce	Phenylalanine, tyrosine and tryptophan biosynthesis	Cytosol
+MAR08514	L-lactate [c] + 2 ferricytochrome C [m] ⇒ 2 H+ [c] + 2 ferrocytochrome C [m] + pyruvate [c]	CG15429	produce	Pyruvate metabolism	Cytosol + Mitochondria
+MAR08683	H2O [c] + cystine [c] ⇒ H+ [c] + NH3 [c] + pyruvate [c] + thiocysteine [c]	Cth	produce	Cysteine and methionine metabolism	Cytosol
+MAR08746	H+ [c] + pyruvate [c] + thiamin-PP [c] ⇒ 2-(alpha-hydroxyethyl)thiamine-diphosphate [c] + CO2 [c]	Pdhb; Pdha	consume	Thiamine metabolism	Cytosol
+MAR09902	Na+ [e] + pyruvate [e] ⇔ Na+ [c] + pyruvate [c]	CG10444	consume/produce	Transport reactions	Extracellular ⇔ Cytosol
+MAR09953	methionine [c] + pyruvate [c] ⇔ 4-Methyl-Thio-Oxo-Butyrate [c] + alanine [c]		consume/produce	Cysteine and methionine metabolism	Cytosol
+MAR10064	0.0043 (S)-dihydroorotate [c] + 0.0014 2,3-bisphospho-D-glycerate [c] + 0.0022 3-phospho-D-glycerate [c] + 0.0025 3-phosphoserine [c] + 0.0033 ADP [c] + 0.0046 AKG [c] + 0.0002 AMP [c] + 0.0271 ATP [c] + 0.0052 CTP [c] + 0.0234 CoA [c] + 0.0094 DHAP [c] + 0.0008 GAP [c] + 0.0002 GDP [c] + 0.0001 GMP [c] + 0.0179 GSH [c] + 0.0001 GSSG [c] + 0.0039 GTP [c] + 0.0029 NAD+ [c] + 0.0004 NADH [c] + 0.0002 NADP+ [c] + 0.0004 NADPH [c] + 0.0008 UDP [c] + 0.052 UDP-N-acetylglucosamine [c] + 0.0088 UDP-glucose [c] + 0.0006 UDP-glucuronate [c] + 0.0102 UTP [c] + 0.0002 acetyl-CoA [c] + 0.0404 alanine [c] + 0.0015 arginine [c] + 0.0012 asparagine [c] + 0.0865 aspartate [c] + 0.0034 citrate [c] + 0.0005 cysteine [c] + 0.0001 dAMP [c] + 0.0002 dCMP [c] + 0.0088 fructose-1,6-bisphosphate [c] + 0.0006 fructose-6-phosphate [c] + 0.0028 fumarate [c] + 0.0039 glucose-6-phosphate [c] + 0.3694 glutamate [c] + 0.0998 glutamine [c] + 0.0215 glycine [c] + 0.0024 histidine [c] + 0.0002 isocitrate [c] + 0.0102 isoleucine [c] + 0.0102 leucine [c] + 0.0029 lysine [c] + 0.0081 malate [c] + 0.0037 methionine [c] + 0.0049 phenylalanine [c] + 0.0102 phenylpyruvate [c] + 0.0071 proline [c] + 0.034 pyruvate [c] + 0.0002 ribose-5-phosphate [c] + 0.0282 serine [c] + 0.0388 threonine [c] + 0.001 tryptophan [c] + 0.0054 tyrosine [c] + 0.0088 valine [c] ⇒ metabolite_pool_biomass [c]		consume	Artificial reactions	Cytosol
+MAR11430	H+ [c] + OAA [c] ⇒ CO2 [c] + pyruvate [c]		produce	Miscellaneous	Cytosol

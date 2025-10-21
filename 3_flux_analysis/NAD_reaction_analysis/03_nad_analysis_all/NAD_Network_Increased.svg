@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='576.00pt' height='432.00pt' viewBox='0 0 576.00 432.00'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1NzYuMDB8MC4wMHw0MzIuMDA='>
+    <rect x='0.00' y='0.00' width='576.00' height='432.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0MzIuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpMC4wMHw1MTAuMjh8MC4wMHw0MzIuMDA='>
+    <rect x='0.000000000000000000000000000000000000000000000000000' y='0.00' width='510.28' height='432.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1MTAuMjh8MC4wMHw0MzIuMDA=)'>
+<polyline points='157.60,381.98 159.26,382.29 160.92,382.60 162.57,382.90 164.23,383.21 165.89,383.52 167.55,383.82 169.21,384.13 170.87,384.44 172.53,384.74 174.19,385.05 175.84,385.36 177.50,385.66 179.16,385.97 180.82,386.28 182.48,386.58 184.14,386.89 185.80,387.20 187.46,387.51 189.11,387.81 190.77,388.12 192.43,388.43 194.09,388.73 195.75,389.04 197.41,389.35 199.07,389.65 200.73,389.96 202.38,390.27 204.04,390.57 205.70,390.88 207.36,391.19 209.02,391.49 210.68,391.80 212.34,392.11 214.00,392.42 215.65,392.72 217.31,393.03 218.97,393.34 220.63,393.64 222.29,393.95 223.95,394.26 225.61,394.56 227.27,394.87 228.92,395.18 230.58,395.48 232.24,395.79 233.90,396.10 235.56,396.41 237.22,396.71 238.88,397.02 240.53,397.33 242.19,397.63 243.85,397.94 245.51,398.25 247.17,398.55 248.83,398.86 250.49,399.17 252.15,399.47 253.80,399.78 255.46,400.09 257.12,400.39 258.78,400.70 260.44,401.01 262.10,401.32 263.76,401.62 265.42,401.93 267.07,402.24 268.73,402.54 270.39,402.85 272.05,403.16 273.71,403.46 275.37,403.77 277.03,404.08 278.69,404.38 280.34,404.69 282.00,405.00 283.66,405.31 285.32,405.61 286.98,405.92 288.64,406.23 290.30,406.53 291.96,406.84 293.61,407.15 295.27,407.45 296.93,407.76 298.59,408.07 300.25,408.37 301.91,408.68 303.57,408.99 305.23,409.29 306.88,409.60 308.54,409.91 310.20,410.22 311.86,410.52 313.52,410.83 315.18,411.14 316.84,411.44 318.50,411.75 320.15,412.06 321.81,412.36 ' style='stroke-width: 3.73; stroke: #999999; stroke-opacity: 0.60; stroke-linecap: butt;' />
+<polyline points='365.60,19.64 366.83,20.70 368.06,21.76 369.28,22.82 370.51,23.88 371.74,24.94 372.96,26.00 374.19,27.07 375.42,28.13 376.65,29.19 377.87,30.25 379.10,31.31 380.33,32.37 381.55,33.43 382.78,34.50 384.01,35.56 385.23,36.62 386.46,37.68 387.69,38.74 388.92,39.80 390.14,40.86 391.37,41.93 392.60,42.99 393.82,44.05 395.05,45.11 396.28,46.17 397.51,47.23 398.73,48.29 399.96,49.36 401.19,50.42 402.41,51.48 403.64,52.54 404.87,53.60 406.10,54.66 407.32,55.72 408.55,56.78 409.78,57.85 411.00,58.91 412.23,59.97 413.46,61.03 414.69,62.09 415.91,63.15 417.14,64.21 418.37,65.28 419.59,66.34 420.82,67.40 422.05,68.46 423.28,69.52 424.50,70.58 425.73,71.64 426.96,72.71 428.18,73.77 429.41,74.83 430.64,75.89 431.87,76.95 433.09,78.01 434.32,79.07 435.55,80.14 436.77,81.20 438.00,82.26 439.23,83.32 440.46,84.38 441.68,85.44 442.91,86.50 444.14,87.56 445.36,88.63 446.59,89.69 447.82,90.75 449.05,91.81 450.27,92.87 451.50,93.93 452.73,94.99 453.95,96.06 455.18,97.12 456.41,98.18 457.64,99.24 458.86,100.30 460.09,101.36 461.32,102.42 462.54,103.49 463.77,104.55 465.00,105.61 466.23,106.67 467.45,107.73 468.68,108.79 469.91,109.85 471.13,110.92 472.36,111.98 473.59,113.04 474.82,114.10 476.04,115.16 477.27,116.22 478.50,117.28 479.72,118.34 480.95,119.41 482.18,120.47 483.41,121.53 484.63,122.59 485.86,123.65 487.09,124.71 ' style='stroke-width: 3.73; stroke: #999999; stroke-opacity: 0.60; stroke-linecap: butt;' />
+<circle cx='157.60' cy='381.98' r='3.56' style='stroke-width: 0.71; stroke: #E74C3C; fill: #E74C3C;' />
+<circle cx='23.19' cy='87.73' r='3.56' style='stroke-width: 0.71; stroke: #E74C3C; fill: #E74C3C;' />
+<circle cx='365.60' cy='19.64' r='3.56' style='stroke-width: 0.71; stroke: #E74C3C; fill: #E74C3C;' />
+<circle cx='321.81' cy='412.36' r='8.89' style='stroke-width: 0.71; stroke: #C0392B; fill: #C0392B;' />
+<circle cx='487.09' cy='124.71' r='8.89' style='stroke-width: 0.71; stroke: #C0392B; fill: #C0392B;' />
+<text x='148.43' y='392.94' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='157.08px' lengthAdjust='spacingAndGlyphs'>Glycine, serine and threonine metabolism</text>
+<text x='125.81' y='90.79' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='196.97px' lengthAdjust='spacingAndGlyphs'>Phenylalanine, tyrosine and tryptophan biosynthesis</text>
+<text x='374.63' y='14.99' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='243.06px' lengthAdjust='spacingAndGlyphs'>Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism</text>
+<text x='312.66' y='423.19' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='31.80px' lengthAdjust='spacingAndGlyphs'>CG5955</text>
+<text x='495.94' y='120.03' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='21.36px' lengthAdjust='spacingAndGlyphs'>Mdh2</text>
+</g>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0MzIuMDA=)'>
+<circle cx='526.60' cy='184.89' r='1.95' style='stroke-width: 0.71; stroke: #E74C3C; fill: #E74C3C;' />
+<circle cx='526.60' cy='196.23' r='1.95' style='stroke-width: 0.71; stroke: #C0392B; fill: #C0392B;' />
+<text x='537.75' y='187.75' style='font-size: 8.00px; font-family: "Arial";' textLength='38.25px' lengthAdjust='spacingAndGlyphs'>subsystem</text>
+<text x='537.75' y='199.09' style='font-size: 8.00px; font-family: "Arial";' textLength='17.81px' lengthAdjust='spacingAndGlyphs'>gene</text>
+<text x='520.93' y='216.48' style='font-size: 9.00px; font-family: "Arial";' textLength='40.00px' lengthAdjust='spacingAndGlyphs'>Reactions</text>
+<circle cx='526.60' cy='228.57' r='3.56' style='stroke-width: 0.71; fill: #000000;' />
+<text x='537.75' y='231.44' style='font-size: 8.00px; font-family: "Arial";' textLength='4.45px' lengthAdjust='spacingAndGlyphs'>1</text>
+<text x='520.93' y='248.83' style='font-size: 9.00px; font-family: "Arial";' textLength='34.50px' lengthAdjust='spacingAndGlyphs'># of rxns</text>
+<line x1='522.07' y1='260.92' x2='531.14' y2='260.92' style='stroke-width: 3.73; stroke: #999999; stroke-opacity: 0.60; stroke-linecap: butt;' />
+<text x='537.75' y='263.79' style='font-size: 8.00px; font-family: "Arial";' textLength='4.45px' lengthAdjust='spacingAndGlyphs'>1</text>
+</g>
+</g>
+</svg>

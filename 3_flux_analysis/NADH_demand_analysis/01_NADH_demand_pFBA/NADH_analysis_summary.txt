@@ -1,0 +1,23 @@
+=== NADH/NAD+ METABOLIC ANALYSIS REPORT (pFBA VERSION) ===
+Generated: 21-Oct-2025 00:43:56
+
+ADDRESSING REVIEWER CONCERNS WITH pFBA:
+1. Mass balance: All analyses maintain NAD+/NADH mass balance
+2. Network-wide capacity: NAD_demand maximization with pFBA
+3. Parsimonious solutions: Minimizes total flux while maintaining optimality
+
+KEY FINDINGS (pFBA):
+
+Model: NSD
+  Max NADH oxidation capacity: 79.3677
+  Biomass growth rate: 1.1544
+  Mass balance check: 2.91e-06 (should be ~0)
+
+Model: HSD
+  Max NADH oxidation capacity: 58.0073
+  Biomass growth rate: 0.7005
+  Mass balance check: 7.15e-07 (should be ~0)
+
+COMPARATIVE ANALYSIS (pFBA):
+NSD: 1.000-fold change in NADH capacity
+HSD: 0.731-fold change in NADH capacity

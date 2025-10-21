@@ -1,0 +1,12 @@
+Non-significant pathways from sampling analysis (Bonferroni-adjusted p ≥ 0.05):
+
+Beta oxidation of even-chain fatty acids (peroxisomal)
+Beta oxidation of odd-chain fatty acids (peroxisomal)
+Cholesterol metabolism
+Fatty acid elongation (odd-chain)
+N-glycan metabolism
+Phosphatidylinositol phosphate metabolism
+Riboflavin metabolism
+Sphingolipid metabolism
+Transport reactions
+Xenobiotics metabolism

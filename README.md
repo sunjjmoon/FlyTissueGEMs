@@ -25,13 +25,13 @@ This repository contains the MATLAB and R code used to reconstruct 32 tissue-spe
 - R (v4.2.1 or newer)
 
 ## Code Availability
-The exact version of the code used in this study is archived on Zenodo:
+The  version of the code used in this study is archived on Zenodo:
 
-**DOI: _[zenodo DOI]_**
+**DOI: 10.5281/zenodo.17684286**
 
 ## Citation
 If you use this code or models, please cite:
 
-*Moon SJ et al., "Modeling tissue-specific Drosophila metabolism identifies high sugar diet-induced metabolic dysregulation in muscle at reaction and pathway levels" (2025). Zenodo. DOI*
+*Moon SJ et al., "Modeling tissue-specific Drosophila metabolism identifies high sugar diet-induced metabolic dysregulation in muscle at reaction and pathway levels (2025)" https://doi.org/10.5281/zenodo.17684286*
 
 ---
